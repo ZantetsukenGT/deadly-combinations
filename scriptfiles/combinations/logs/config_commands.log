@@ -1,0 +1,105 @@
+[23:53:14] [PTM]matrix4057 - /config spec.
+[23:53:29] [PTM]matrix4057 - /config sync.
+[23:53:31] [PTM]matrix4057 - /config sync off.
+[23:53:37] [PTM]matrix4057 - /config sync on.
+[23:54:19] [PTM]matrix4057 - /config audio.
+[22:04:54] fagtzs - /config teamname.
+[22:04:56] fagtzs - /config teamname 1 PTM.
+[22:04:59] fagtzs - /config teamname 2 Guest.
+[22:06:15] fagtzs - /config teamskin 1 128.
+[22:06:20] fagtzs - /config teamskin 0 128.
+[22:06:26] fagtzs - /config teamskin 0 88.
+[22:06:32] fagtzs - /config teamskin 0 126.
+[22:06:37] fagtzs - /config teamskin 2 18.
+[22:06:46] fagtzs - /config cptime 25.
+[22:07:18] fagtzs - /config weapons.
+[22:07:22] fagtzs - /config weapons silenced 2.
+[22:07:37] fagtzs - /config weapons silence 2.
+[22:07:41] fagtzs - /config weapons Rifle 2.
+[22:07:56] fagtzs - /config weapons M4 1.
+[22:08:26] fagtzs - /config wlimit.
+[22:08:32] fagtzs - /config wlimit m4 3.
+[22:08:37] fagtzs - /config wlimit combat 1.
+[22:08:41] fagtzs - /config wlimit sniper 1.
+[22:08:49] fagtzs - /config ammo.
+[22:08:54] fagtzs - /config ammo m4 9999.
+[22:08:58] fagtzs - /config ammo sniper 9999.
+[22:09:02] fagtzs - /config ammo rifle 9999.
+[22:09:09] fagtzs - /config ammo country 9999.
+[22:09:15] fagtzs - /config ammo combat 9999.
+[22:09:20] fagtzs - /config ammo desert 9999.
+[22:09:37] fagtzs - /config ammo shotgun 9999.
+[22:09:41] fagtzs - /config ammo mp5 9999.
+[22:09:45] fagtzs - /config ammo ak-47 9999.
+[22:09:48] fagtzs - /config ammo ak47 9999.
+[22:09:54] fagtzs - /config ammo silenced 9999.
+[22:10:38] fagtzs - /config cptime 25.
+[22:10:46] fagtzs - /config roundtime 10.
+[22:10:51] fagtzs - /config roundlimit 9.
+[22:11:13] fagtzs - /config introstring.
+[22:11:16] fagtzs - /config introstring matrix4057.
+[22:11:25] fagtzs - /config introsubstring owns you.
+[23:01:42] [PTM]Al_Pacino - /config diag.
+[23:01:44] [PTM]Al_Pacino - /config diag off.
+[17:16:17] [PTM]Al_Pacino - /config introstring.
+[17:16:27] [PTM]Al_Pacino - /config introstring Welcome to.
+[17:16:37] [PTM]Al_Pacino - /config introsubstring Deadly Combinations.
+[17:31:45] [PTM]blAckzOnE_ - /config lobbyweapons.
+[18:57:36] [PTM]Al_Pacino - /config teamskin 0 296.
+[18:57:43] [PTM]Al_Pacino - /config teamname.
+[18:58:04] [PTM]Al_Pacino - /config teamname 2 ReVs.
+[18:58:07] [PTM]Al_Pacino - /config teamname 2 RevS.
+[19:02:49] [PTM]Al_Pacino - /config roundlimit 9.
+[19:04:41] [PTM]matrix4057 - /config duels off.
+[19:04:46] [PTM]Al_Pacino - /config lobbyweapons off.
+[19:05:57] [PTM]Al_Pacino - /config wlimit combat 1.
+[19:05:59] [PTM]Al_Pacino - /config wlimit sniper 1.
+[19:18:01] [PTM]Al_Pacino - /config cptime 20.
+[19:36:46] [PTM]Al_Pacino - /config wlimit sniper 1.
+[20:05:19] [PTM]Al_Pacino - /config gameplay.
+[20:05:23] [PTM]Al_Pacino - /config gameplay 1.
+[20:50:44] [PTM]Al_Pacino - /config teamname 2 Pooland.
+[20:50:55] [PTM]Al_Pacino - /config teamname 2 POL.
+[20:52:04] [PTM]Al_Pacino - /config roundlimit 9.
+[21:35:09] [PTM]matrix4057 - /config wlimit combat 2.
+[21:35:28] [PTM]matrix4057 - /config wlimit combat 1.
+[17:08:22] [PTM]MATRIX4057 - /config globalhealth.
+[17:08:25] [PTM]MATRIX4057 - /config globalhealth 100.
+[17:09:34] [PTM]MATRIX4057 - /config dm off.
+[17:16:28] [PTM]MATRIX4057 - /config teamname.
+[17:16:35] [PTM]MATRIX4057 - /config teamname 2 CocK.
+[17:16:37] [PTM]blAckzOnE_ - /config teamname.
+[17:16:38] [PTM]MATRIX4057 - /config teamname 2 RocK.
+[17:16:50] [PTM]MATRIX4057 - /config teamname 2 Rock.
+[17:27:48] [PTM]MATRIX4057 - /config teamskin.
+[17:28:02] [PTM]MATRIX4057 - /config teamskin 4 126.
+[17:28:26] [PTM]blAckzOnE_ - /config dm.
+[17:28:27] [PTM]blAckzOnE_ - /config dm on.
+[17:55:12] [PTM]blAckzOnE_ - /config speedmeter.
+[18:08:51] [PTM]blAckzOnE_ - /config duels on.
+[18:18:21] [PTM]MATRIX4058 - /config teamname 2 Rk.
+[18:18:39] [PTM]MATRIX4058 - /config teamskin.
+[18:18:42] [PTM]MATRIX4058 - /config teamskin 2 53.
+[18:21:59] [PTM]blAckzOnE_ - /config teamskin.
+[18:22:01] [PTM]blAckzOnE_ - /config teamskin 1 124.
+[18:22:07] [PTM]blAckzOnE_ - /config teamskin 1 125.
+[18:28:34] [PTM]MATRIX4058 - /config skin.
+[18:28:36] [PTM]MATRIX4058 - /config skin off.
+[17:27:19] [PTM]Phz - /config skin enable.
+[17:27:25] [PTM]Al_Pacino - /config skin.
+[17:27:27] [PTM]Al_Pacino - /config skin on.
+[17:27:28] [PTM]pwned - /config skin.
+[17:45:49] [PTM]Al_Pacino - /config teamname.
+[17:45:54] [PTM]Al_Pacino - /config teamname 2 vargalhos.
+[17:46:39] [PTM]Al_Pacino - /config duels off.
+[17:53:25] [PTM]MATRIX4057 - /config teamname.
+[17:53:30] [PTM]MATRIX4057 - /config teamname 2 bernie.
+[17:54:00] [PTM]blAckzOnE_ - /config duels on.
+[17:54:03] [PTM]blAckzOnE_ - /config duels off.
+[18:47:52] [PTM]Al_Pacino - /config roundlimit 25.
+[13:21:30] [PTM]MATRIX4057 - /config teamname 2 suka.
+[13:27:16] [PTM]MATRIX4057 - /config teamname 0 pidr.
+[13:27:19] [PTM]MATRIX4057 - /config teamname 1 pidr.
+[20:22:40] Brutal[ABK] - /config lobbyweapons on.
+[20:22:50] Brutal[ABK] - /config lobbyweapons off.
+[20:24:02] Raekwon@PTM - /config lobbyweapons on.

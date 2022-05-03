@@ -1,0 +1,1858 @@
+﻿
+
+
+<><><><><><> Final Results <><><><><><>
+
+------------------------------------------------------------------------
+
+
+*~ Team: Home | Rounds Won: 0 | Kills: 0 Deaths: 0 | Ratio: 0.00 *~
+
+------------------------------------------------------------------------
+
+*~ Team: Away | Rounds Won: 0 | Kills: 0 Deaths: 0 | Ratio: 0.00 *~
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+Round 1 | Base id 23 (LV Abandoned Building) - 11/17 - Started: 17:54:30 @ Ended: 17:57:50 (Lasted 3:20) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTMm]TUROK (HP: 11 / '20.2' ft) Sniper Rifle
+
+
+
+>>>> Team Guest: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 211) <
+
+>> [PTMm]MoN_: Kills 0 | Died: NO
+
+>> [PTMm]TUROK: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 2 | Base id 103 () - 11/17 - Started: 17:58:52 @ Ended: 18:00:58 (Lasted 2:06) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTMm]MoN_: Kills 0 | Died: YES || [PTM]blAckzOnE_ (HP: 16 / '8.1' ft) Pump Shotgun
+
+
+
+>>>> Team Guest: Defend | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 211) <
+
+>> [PTM]blAckzOnE_: Kills 1 | Died: NO
+
+>> [PTMm]TUROK: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 3 | Base id 52 (Wangs Cars) - 11/17 - Started: 18:01:54 @ Ended: 18:05:07 (Lasted 3:13) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [PTM]blAckzOnE_ (HP: 198 / '5.9' ft) Pump Shotgun
+
+
+
+>>>> Team Guest: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 368) <
+
+>> [PTMm]MoN_: Kills 0 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 2 | Died: NO
+
+
+
+
+
+
+Round 1 | Base id 80 (LS Parking Building) - 11/17 - Started: 19:10:11 @ Ended: 19:16:59 (Lasted 6:48) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 6 Deaths: 4 | Ratio: '1.50' > WIN (HP Left: 215) < 
+
+>> [PTM]Wojtekez: Kills 0 | Died: YES || revs.sku (HP: 108 / '26.0' ft) Desert Eagle
+
+>> [PTM]mefff: Kills 1 | Died: YES || revs.sku (HP: 75 / '3.5' ft) Desert Eagle
+
+>> [PTM]Al_Pacino: Kills 5 | Died: NO
+
+>> [PTMm]MoN_: Kills 0 | Died: NO
+
+>> [PTM]matrix4057: Kills 0 | Died: YES || [revs]lucasek (HP: 154 / '13.3' ft) Desert Eagle
+
+>> [PTM]jesuZ_mariaN: Kills 0 | Died: YES || revs.sku (HP: 128 / '27.5' ft) Pump Shotgun
+
+
+
+>>>> Team RevS: Defend | Kills: 4 Deaths: 6 | Ratio: '0.66'  > LOSS <
+
+>> [revs]lucasek: Kills 1 | Died: YES || [PTM]Al_Pacino (HP: 74 / '20.5' ft) Combat Shotgun
+
+>> [revs]dev: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 74 / '14.8' ft) Combat Shotgun
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]mefff (HP: 150 / '7.6' ft) Pump Shotgun
+
+>> HeavY: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 200 / '12.8' ft) Combat Shotgun
+
+>> [revs]blajnd: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 74 / '27.0' ft) Combat Shotgun
+
+
+
+
+
+
+Round 2 | Base id 33 (Angel Pine Storage) - 11/17 - Started: 19:17:45 @ Ended: 19:23:50 (Lasted 6:05) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 0 | Ratio: '5.00' > WIN < 
+
+>> [PTM]Wojtekez: Kills 1 | Died: NO
+
+>> [PTM]mefff: Kills 1 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 5 | Died: NO
+
+>> [PTMm]MoN_: Kills 2 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 1 | Died: NO
+
+
+
+>>>> Team RevS: Attack | Kills: 0 Deaths: 5 | Ratio: '-5.00'  > LOSS <
+
+>> [revs]lucasek: Kills 1 | Died: YES || [PTM]matrix4057 (HP: 156 / '8.0' ft) Combat Shotgun
+
+>> [revs]dev: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 153 / '13.9' ft) M4
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]jesuZ_mariaN (HP: 200 / '145.2' ft) Sniper Rifle
+
+>> HeavY: Kills 0 | Died: YES || [PTM]Wojtekez (HP: 200 / '7.5' ft) Desert Eagle
+
+>> [revs]blajnd: Kills 0 | Died: NO
+
+>> revs.sku: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 153 / '37.1' ft) M4
+
+
+
+
+
+
+Round 3 | Base id 27 (Starfish Casino Garage) - 11/17 - Started: 19:24:04 @ Ended: 19:30:19 (Lasted 6:15) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 5 Deaths: 0 | Ratio: '5.00' > WIN (HP Left: 531) < 
+
+>> [PTM]Wojtekez: Kills 1 | Died: NO
+
+>> [PTM]mefff: Kills 2 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 5 | Died: NO
+
+>> [PTM]matrix4057: Kills 2 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 2 | Died: NO
+
+
+
+>>>> Team RevS: Defend | Kills: 0 Deaths: 5 | Ratio: '-5.00'  > LOSS <
+
+>> [revs]lucasek: Kills 1 | Died: YES || [PTM]matrix4057 (HP: 200 / '26.9' ft) Combat Shotgun
+
+>> [revs]dev: Kills 0 | Died: YES || [PTM]mefff (HP: 138 / '5.5' ft) Pump Shotgun
+
+>> HeavY: Kills 0 | Died: YES || [PTMm]TUROK (HP: 61 / '3.8' ft) Desert Eagle
+
+
+
+
+
+
+Round 4 | Base id 124 () - 11/17 - Started: 19:30:27 @ Ended: 19:40:13 (Lasted 9:46) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 6 | Ratio: '0.83' > LOSS < 
+
+>> [PTM]Wojtekez: Kills 3 | Died: YES || [revs]blajnd (HP: 33 / '5.4' ft) Pump Shotgun
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [revs]jonashek (HP: 167 / '140.1' ft) Sniper Rifle
+
+>> [PTM]Al_Pacino: Kills 6 | Died: YES || [revs]jonashek (HP: 25 / '67.3' ft) Sniper Rifle
+
+>> [PTM]jesuZ_mariaN: Kills 4 | Died: YES || [revs]jonashek (HP: 25 / '96.6' ft) Sniper Rifle
+
+
+
+>>>> Team RevS: Attack | Kills: 6 Deaths: 5 | Ratio: '1.20'  > WIN (HP Left: 25) <
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]jesuZ_mariaN (HP: 14 / '99.1' ft) Sniper Rifle
+
+>> [revs]dev: Kills 0 | Died: YES || [PTM]jesuZ_mariaN (HP: 7 / '6.9' ft) Pump Shotgun
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]Wojtekez (HP: 61 / '1.7' ft) Desert Eagle
+
+>> HeavY: Kills 0 | Died: YES || [PTM]Wojtekez (HP: 61 / '13.7' ft) Desert Eagle
+
+>> [revs]jonashek: Kills 3 | Died: NO
+
+>> [revs]blajnd: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 24 / '19.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 5 | Base id 43 (SF Crack Warehouse) - 11/17 - Started: 19:40:22 @ Ended: 19:49:28 (Lasted 9:06) | Attackers Captured CP
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 6 | Ratio: '0.50' > LOSS < 
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [revs]dev (HP: 81 / '17.4' ft) Pump Shotgun
+
+>> [PTM]matrix4057: Kills 4 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 6 | Died: YES || HeavY (HP: 130 / '27.4' ft) Desert Eagle
+
+>> [PTMm]MoN_: Kills 3 | Died: YES || ChicksLoveMe. (HP: 93 / '9.3' ft) Pump Shotgun
+
+>> [PTM]jesuZ_mariaN: Kills 4 | Died: YES || ChicksLoveMe. (HP: 93 / '12.3' ft) Desert Eagle
+
+
+
+>>>> Team RevS: Defend | Kills: 5 Deaths: 3 | Ratio: '1.66'  > WIN <
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]matrix4057 (HP: 155 / '13.7' ft) Pump Shotgun
+
+>> [revs]dev: Kills 1 | Died: YES || [PTM]matrix4057 (HP: 148 / '15.6' ft) Sniper Rifle
+
+>> HeavY: Kills 1 | Died: NO
+
+>> [revs]jonashek: Kills 3 | Died: NO
+
+
+
+
+
+
+Round 6 | Base id 29 (Jizzy's Rooftop) - 11/17 - Started: 19:55:23 @ Ended: 20:00:33 (Lasted 5:10) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 4 Deaths: 0 | Ratio: '4.00' > WIN < 
+
+>> [PTM]mefff: Kills 2 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 8 | Died: NO
+
+>> [PTM]matrix4057: Kills 5 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 4 | Died: NO
+
+>> [PTM]Wojtekez: Kills 4 | Died: NO
+
+
+
+>>>> Team RevS: Attack | Kills: 0 Deaths: 4 | Ratio: '-4.00'  > LOSS <
+
+>> [revs]blajnd: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 34 / '7.0' ft) Desert Eagle
+
+>> HeavY: Kills 1 | Died: YES || [PTM]matrix4057 (HP: 160 / '9.3' ft) Combat Shotgun
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 34 / '28.0' ft) Desert Eagle
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]Wojtekez (HP: 119 / '18.0' ft) Desert Eagle
+
+>> [revs]jonashek: Kills 3 | Died: NO
+
+
+
+
+
+
+Round 7 | Base id 105 () - 11/17 - Started: 20:01:39 @ Ended: 20:04:59 (Lasted 3:20) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 5 Deaths: 0 | Ratio: '5.00' > WIN (HP Left: 465) < 
+
+>> [PTM]mefff: Kills 2 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 9 | Died: NO
+
+>> [PTM]matrix4057: Kills 5 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 7 | Died: NO
+
+>> [PTM]Wojtekez: Kills 5 | Died: NO
+
+
+
+>>>> Team RevS: Defend | Kills: 0 Deaths: 5 | Ratio: '-5.00'  > LOSS <
+
+>> [revs]blajnd: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 112 / '12.6' ft) Pump Shotgun
+
+>> HeavY: Kills 1 | Died: YES || [PTM]Wojtekez (HP: 58 / '7.7' ft) Desert Eagle
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]jesuZ_mariaN (HP: 200 / '3.5' ft) Pump Shotgun
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]jesuZ_mariaN (HP: 200 / '57.6' ft) Sniper Rifle
+
+>> [revs]jonashek: Kills 3 | Died: YES || [PTM]jesuZ_mariaN (HP: 117 / '3.6' ft) Pump Shotgun
+
+
+
+
+
+
+Round 8 | Base id 22 (Grove Street) - 11/17 - Started: 20:05:05 @ Ended: 20:08:30 (Lasted 3:25) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 0 | Ratio: '5.00' > WIN (HP Left: 491) < 
+
+>> [PTM]mefff: Kills 4 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 10 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 7 | Died: NO
+
+>> [PTM]Wojtekez: Kills 7 | Died: NO
+
+
+
+>>>> Team RevS: Attack | Kills: 0 Deaths: 5 | Ratio: '-5.00'  > LOSS <
+
+>> [revs]blajnd: Kills 2 | Died: YES || [PTM]mefff (HP: 96 / '20.7' ft) Pump Shotgun
+
+>> HeavY: Kills 1 | Died: YES || [PTM]Wojtekez (HP: 53 / '6.2' ft) Desert Eagle
+
+>> ChicksLoveMe.: Kills 0 | Died: YES || [PTM]mefff (HP: 101 / '11.4' ft) Desert Eagle
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]Wojtekez (HP: 53 / '3.0' ft) Desert Eagle
+
+>> [revs]jonashek: Kills 3 | Died: YES || [PTM]Al_Pacino (HP: 114 / '33.3' ft) M4
+
+
+
+
+
+
+Round 9 | TDM - Stealth & Survive id 6 (Las Barrancadas) - 11/17 - Started: 20:08:35 @ Ended: 20:10:26 (Lasted 1:51) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 1 | Ratio: '5.00' > WIN (HP Left: 398) < 
+
+>> [PTM]mefff: Kills 5 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 11 | Died: NO
+
+>> [PTM]matrix4057: Kills 6 | Died: NO
+
+>> [PTM]jesuZ_mariaN: Kills 8 | Died: NO
+
+>> [PTM]Wojtekez: Kills 8 | Died: YES || ChicksLoveMe. (HP: 153 / '13.2' ft) Desert Eagle
+
+
+
+>>>> Team RevS: Attack | Kills: 1 Deaths: 5 | Ratio: '0.20'  > LOSS <
+
+>> [revs]blajnd: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 152 / '23.4' ft) Desert Eagle
+
+>> HeavY: Kills 1 | Died: YES || [PTM]Wojtekez (HP: 104 / '3.0' ft) Desert Eagle
+
+>> ChicksLoveMe.: Kills 1 | Died: YES || [PTM]matrix4057 (HP: 100 / '22.3' ft) Combat Shotgun
+
+>> [revs]lucasek: Kills 2 | Died: YES || [PTM]mefff (HP: 107 / '7.2' ft) Pump Shotgun
+
+
+
+
+<><><><><><> Final Results <><><><><><>
+
+------------------------------------------------------------------------
+
+
+*~ Team: PTM | Rounds Won: 7 | Kills: 43 Deaths: 19 | Ratio: 2.26 *~
+
+>> [PTM]mefff | Kills: 5 Deaths: '1 | Ratio: 5.00 <<
+
+>> [PTM]Al_Pacino | Kills: 11 Deaths: '3 | Ratio: 3.66 <<
+
+>> [PTM]matrix4057 | Kills: 6 Deaths: '2 | Ratio: 3.00 <<
+
+>> [PTM]jesuZ_mariaN | Kills: 8 Deaths: '3 | Ratio: 2.66 <<
+
+>> [PTM]Wojtekez | Kills: 8 Deaths: '3 | Ratio: 2.66 <<
+
+------------------------------------------------------------------------
+
+*~ Team: RevS | Rounds Won: 2 | Kills: 16 Deaths: 45 | Ratio: 0.35 *~
+
+>> [revs]blajnd | Kills: 2 Deaths: 8 | Ratio: 0.25 <<
+
+>> HeavY | Kills: 1 Deaths: 8 | Ratio: 0.12 <<
+
+>> ChicksLoveMe. | Kills: 1 Deaths: 7 | Ratio: 0.14 <<
+
+>> [revs]lucasek | Kills: 2 Deaths: 10 | Ratio: 0.20 <<
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+Round 1 | Base id 3 (SF Police Dep.) - 11/18 - Started: 20:52:46 @ Ended: 21:00:30 (Lasted 7:44) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 1 Deaths: 4 | Ratio: '0.25' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: YES || [POL]Wojtekez (HP: 3 / '19.4' ft) Combat Shotgun
+
+>> [PTM]evol: Kills 0 | Died: YES || [POL]s (HP: 23 / '52.7' ft) M4
+
+>> [PTM]matrix4057: Kills 0 | Died: YES || [POL]ezol (HP: 67 / '39.2' ft) Sniper Rifle
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [POL]s (HP: 23 / '16.5' ft) M4
+
+
+
+>>>> Team POL: Defend | Kills: 4 Deaths: 1 | Ratio: '4.00'  > WIN (HP Left: 167) <
+
+>> [POL]s: Kills 2 | Died: NO
+
+>> [POL]ezol: Kills 1 | Died: NO
+
+>> [POL]Wojtekez: Kills 1 | Died: YES || [PTMm]TUROK (HP: 28 / '19.5' ft) Pump Shotgun
+
+
+
+
+
+
+Round 2 | Base id 129 () - 11/18 - Started: 21:00:39 @ Ended: 21:10:26 (Lasted 9:47) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 2 Deaths: 4 | Ratio: '0.50' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: YES || [POL]ezol (HP: 103 / '80.7' ft) Sniper Rifle
+
+>> [PTM]evol: Kills 0 | Died: YES || [POL]silooooN (HP: 102 / '16.0' ft) Desert Eagle
+
+>> [PTM]matrix4057: Kills 2 | Died: YES || [POL]silooooN (HP: 65 / '8.1' ft) Desert Eagle
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [POL]s (HP: 55 / '5.4' ft) Pump Shotgun
+
+
+
+>>>> Team POL: Attack | Kills: 4 Deaths: 3 | Ratio: '1.33'  > WIN (HP Left: 65) <
+
+>> [POL]s: Kills 3 | Died: YES || 
+
+>> [POL]ezol: Kills 2 | Died: YES || [PTM]matrix4057 (HP: 29 / '90.1' ft) Sniper Rifle
+
+>> [POL]silooooN: Kills 2 | Died: NO
+
+
+
+
+
+
+Round 3 | Base id 63 (East Los Santos Garage) - 11/18 - Started: 21:10:33 @ Ended: 21:14:30 (Lasted 3:57) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 2 Deaths: 4 | Ratio: '0.50' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || [POL]Wojtekez (HP: 106 / '36.4' ft) Combat Shotgun
+
+>> [PTM]evol: Kills 0 | Died: YES || [POL]Wojtekez (HP: 12 / '25.3' ft) Combat Shotgun
+
+>> [PTM]matrix4057: Kills 2 | Died: YES || [POL]silooooN (HP: 26 / '21.9' ft) Desert Eagle
+
+>> [PTM]preda: Kills 1 | Died: YES || [POL]silooooN (HP: 26 / '19.4' ft) Pump Shotgun
+
+
+
+>>>> Team POL: Defend | Kills: 4 Deaths: 2 | Ratio: '2.00'  > WIN (HP Left: 130) <
+
+>> [POL]s: Kills 3 | Died: NO
+
+>> [POL]Wojtekez: Kills 3 | Died: YES || [PTM]preda (HP: 8 / '8.0' ft) Combat Shotgun
+
+>> [POL]silooooN: Kills 4 | Died: NO
+
+
+
+
+
+
+Round 4 | Base id 83 (Vank Hoff in the Park) - 11/18 - Started: 21:15:00 @ Ended: 21:19:44 (Lasted 4:44) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 4 Deaths: 1 | Ratio: '4.00' > WIN (HP Left: 191) < 
+
+>> [PTM]Al_Pacino: Kills 2 | Died: NO
+
+>> [PTM]evol: Kills 2 | Died: NO
+
+>> [PTM]matrix4057: Kills 2 | Died: YES || [POL]ezol (HP: 66 / '4.0' ft) Sniper Rifle
+
+>> [PTM]preda: Kills 2 | Died: NO
+
+
+
+>>>> Team POL: Attack | Kills: 1 Deaths: 4 | Ratio: '0.25'  > LOSS <
+
+>> [POL]s: Kills 3 | Died: YES || [PTM]Al_Pacino (HP: 154 / '41.5' ft) M4
+
+>> [POL]ezol: Kills 3 | Died: YES || [PTM]evol (HP: 44 / '115.5' ft) Sniper Rifle
+
+>> [POL]Wojtekez: Kills 3 | Died: YES || [PTM]evol (HP: 86 / '44.4' ft) Sniper Rifle
+
+>> [POL]silooooN: Kills 4 | Died: YES || [PTM]preda (HP: 54 / '19.2' ft) Combat Shotgun
+
+
+
+
+
+
+Round 5 | Base id 28 (Tierra Robada) - 11/18 - Started: 21:19:59 @ Ended: 21:25:24 (Lasted 5:25) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 2 Deaths: 4 | Ratio: '0.50' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 3 | Died: YES || [POL]ezol (HP: 196 / '41.5' ft) Sniper Rifle
+
+>> [PTM]evol: Kills 2 | Died: YES || [POL]ezol (HP: 196 / '3.6' ft) Sniper Rifle
+
+>> [PTM]preda: Kills 3 | Died: YES || [POL]silooooN (HP: 142 / '12.6' ft) Pump Shotgun
+
+
+
+>>>> Team POL: Defend | Kills: 4 Deaths: 2 | Ratio: '2.00'  > WIN (HP Left: 268) <
+
+>> [POL]s: Kills 3 | Died: YES || [PTM]Al_Pacino (HP: 17 / '12.4' ft) Pump Shotgun
+
+>> [POL]ezol: Kills 5 | Died: NO
+
+>> [POL]Wojtekez: Kills 3 | Died: YES || [PTM]preda (HP: 3 / '15.4' ft) Combat Shotgun
+
+>> [POL]silooooN: Kills 6 | Died: NO
+
+
+
+
+
+
+Round 6 | Base id 29 (Jizzy's Rooftop) - 11/18 - Started: 21:25:29 @ Ended: 21:28:45 (Lasted 3:16) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 3 Deaths: 0 | Ratio: '3.00' > WIN (HP Left: 465) < 
+
+>> [PTM]Al_Pacino: Kills 4 | Died: NO
+
+>> [PTM]evol: Kills 3 | Died: NO
+
+>> [PTM]matrix4057: Kills 3 | Died: NO
+
+>> [PTM]preda: Kills 3 | Died: NO
+
+
+
+>>>> Team POL: Attack | Kills: 0 Deaths: 4 | Ratio: '-4.00'  > LOSS <
+
+>> [POL]s: Kills 3 | Died: YES || [PTM]Al_Pacino (HP: 17 / '12.4' ft) Pump Shotgun
+
+>> [POL]ezol: Kills 5 | Died: YES || [PTM]evol (HP: 200 / '179.5' ft) Sniper Rifle
+
+>> [POL]Wojtekez: Kills 3 | Died: YES || [PTM]matrix4057 (HP: 193 / '12.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 7 | Base id 67 (Commerce Underground) - 11/18 - Started: 21:29:15 @ Ended: 21:33:10 (Lasted 3:55) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 4 | Ratio: '-4.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 4 | Died: YES || [POL]ezol (HP: 153 / '1.5' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 3 | Died: YES || [POL]silooooN (HP: 153 / '9.5' ft) Desert Eagle
+
+>> [PTM]matrix4057: Kills 3 | Died: YES || [POL]silooooN (HP: 200 / '11.5' ft) Desert Eagle
+
+>> [PTM]preda: Kills 3 | Died: YES || [POL]Wojtekez (HP: 68 / '3.2' ft) Combat Shotgun
+
+
+
+>>>> Team POL: Defend | Kills: 4 Deaths: 0 | Ratio: '4.00'  > WIN (HP Left: 559) <
+
+>> [POL]s: Kills 3 | Died: NO
+
+>> [POL]ezol: Kills 6 | Died: NO
+
+>> [POL]Wojtekez: Kills 4 | Died: NO
+
+>> [POL]silooooN: Kills 8 | Died: NO
+
+
+
+
+
+
+Round 8 | Base id 16 (Emerald Island Garage) - 11/18 - Started: 21:33:17 @ Ended: 21:38:52 (Lasted 5:35) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 4 Deaths: 1 | Ratio: '4.00' > WIN (HP Left: 201) < 
+
+>> [PTM]Al_Pacino: Kills 6 | Died: NO
+
+>> [PTM]evol: Kills 3 | Died: NO
+
+>> [PTM]matrix4057: Kills 3 | Died: YES || [POL]s (HP: 56 / '8.2' ft) Pump Shotgun
+
+>> [PTM]preda: Kills 5 | Died: NO
+
+
+
+>>>> Team POL: Attack | Kills: 1 Deaths: 5 | Ratio: '0.20'  > LOSS <
+
+>> [POL]s: Kills 4 | Died: YES || [PTM]Al_Pacino (HP: 41 / '6.3' ft) Combat Shotgun
+
+>> [POL]ezol: Kills 6 | Died: YES || [PTM]preda (HP: 61 / '3.0' ft) Desert Eagle
+
+>> [POL]silooooN: Kills 8 | Died: YES || [PTM]preda (HP: 38 / '10.1' ft) Pump Shotgun
+
+
+
+
+
+
+Round 9 | TDM - Stealth & Survive id 5 (Ocean Flats Suburbs) - 11/18 - Started: 21:39:56 @ Ended: 21:42:07 (Lasted 2:11) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 4 Deaths: 0 | Ratio: '4.00' > WIN (HP Left: 338) < 
+
+>> [PTM]Al_Pacino: Kills 7 | Died: NO
+
+>> [PTM]evol: Kills 4 | Died: NO
+
+>> [PTMm]TUROK: Kills 2 | Died: NO
+
+>> [PTM]preda: Kills 6 | Died: NO
+
+
+
+>>>> Team POL: Attack | Kills: 0 Deaths: 4 | Ratio: '-4.00'  > LOSS <
+
+>> [POL]s: Kills 4 | Died: YES || [PTMm]TUROK (HP: 21 / '4.7' ft) Desert Eagle
+
+
+
+
+<><><><><><> Final Results <><><><><><>
+
+------------------------------------------------------------------------
+
+
+*~ Team: PTM | Rounds Won: 4 | Kills: 22 Deaths: 22 | Ratio: 1.00 *~
+
+>> [PTM]Al_Pacino | Kills: 7 Deaths: '5 | Ratio: 1.39 <<
+
+>> [PTM]evol | Kills: 4 Deaths: '5 | Ratio: 0.80 <<
+
+>> [PTMm]TUROK | Kills: 2 Deaths: '2 | Ratio: 1.00 <<
+
+>> [PTM]preda | Kills: 6 Deaths: '3 | Ratio: 2.00 <<
+
+------------------------------------------------------------------------
+
+*~ Team: POL | Rounds Won: 5 | Kills: 22 Deaths: 25 | Ratio: 0.87 *~
+
+>> [POL]s | Kills: 4 Deaths: 6 | Ratio: 0.66 <<
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+Round 1 | Base id 89 (Valet Parking) - 11/20 - Started: 17:11:57 @ Ended: 17:16:08 (Lasted 4:11) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 4 Deaths: 1 | Ratio: '4.00' > WIN (HP Left: 312) < 
+
+>> [PTM]preda: Kills 3 | Died: NO
+
+>> [PTM]MATRIX4057: Kills 0 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [Rock]Adz (HP: 10 / '9.5' ft) Combat Shotgun
+
+>> [PTM]Wojtekez: Kills 1 | Died: NO
+
+
+
+>>>> Team POL: Defend | Kills: 1 Deaths: 4 | Ratio: '0.25'  > LOSS <
+
+>> [Rock]Raviossa.: Kills 0 | Died: YES || [PTM]Wojtekez (HP: 114 / '22.1' ft) Desert Eagle
+
+>> [Rock]Adz: Kills 1 | Died: YES || [PTM]preda (HP: 175 / '13.7' ft) Desert Eagle
+
+>> [Rock]Eazy_e: Kills 0 | Died: YES || [PTM]preda (HP: 175 / '12.5' ft) Pump Shotgun
+
+
+
+
+
+
+Round 2 | Base id 52 (Wangs Cars) - 11/20 - Started: 17:16:55 @ Ended: 17:19:19 (Lasted 2:24) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 4 Deaths: 0 | Ratio: '4.00' > WIN (HP Left: 470) < 
+
+>> [PTM]preda: Kills 5 | Died: NO
+
+>> [PTM]MATRIX4057: Kills 1 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: NO
+
+>> [PTM]Wojtekez: Kills 2 | Died: NO
+
+
+
+>>>> Team Rock: Attack | Kills: 0 Deaths: 4 | Ratio: '-4.00'  > LOSS <
+
+>> [Rock]Raviossa.: Kills 0 | Died: YES || [PTM]preda (HP: 44 / '9.9' ft) Desert Eagle
+
+>> [Rock]Adz: Kills 1 | Died: YES || [PTM]preda (HP: 91 / '8.2' ft) Pump Shotgun
+
+
+
+
+
+
+Round 3 | Base id 115 () - 11/20 - Started: 17:20:18 @ Ended: 17:24:40 (Lasted 4:22) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 2 | Ratio: '1.50' > WIN (HP Left: 337) < 
+
+>> [PTM]preda: Kills 7 | Died: NO
+
+>> [PTM]MATRIX4057: Kills 1 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [Rock]Adz (HP: 10 / '9.5' ft) Combat Shotgun
+
+
+
+>>>> Team Rock: Defend | Kills: 1 Deaths: 3 | Ratio: '0.33'  > LOSS <
+
+>> [Rock]Raviossa.: Kills 0 | Died: YES || [PTM]preda (HP: 157 / '26.9' ft) Desert Eagle
+
+>> [Rock]Adz: Kills 1 | Died: YES || [PTM]Wojtekez (HP: 13 / '31.5' ft) Desert Eagle
+
+>> [Rock]Eazy_e: Kills 1 | Died: YES || [PTM]preda (HP: 137 / '17.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 4 | Base id 43 (SF Crack Warehouse) - 11/20 - Started: 17:25:02 @ Ended: 17:27:42 (Lasted 2:40) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 3 Deaths: 0 | Ratio: '3.00' > WIN (HP Left: 440) < 
+
+>> [PTM]preda: Kills 7 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 2 | Died: NO
+
+>> [PTM]Wojtekez: Kills 3 | Died: NO
+
+
+
+>>>> Team Rock: Attack | Kills: 0 Deaths: 3 | Ratio: '-3.00'  > LOSS <
+
+>> [Rock]Raviossa.: Kills 0 | Died: YES || [PTM]blAckzOnE_ (HP: 200 / '13.3' ft) Country Rifle
+
+>> [Rock]Adz: Kills 1 | Died: YES || [PTM]blAckzOnE_ (HP: 200 / '34.9' ft) Combat Shotgun
+
+>> [Rock]Eazy_e: Kills 1 | Died: YES || [PTM]Wojtekez (HP: 92 / '13.0' ft) Desert Eagle
+
+
+
+
+
+
+Round 5 | Base id 69 (Foster Valley) - 11/20 - Started: 17:31:33 @ Ended: 17:38:56 (Lasted 7:23) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00' > WIN (HP Left: 230) < 
+
+>> [PTM]hp: Kills 0 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 3 | Died: NO
+
+
+
+>>>> Team Rock: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00'  > LOSS <
+
+>> [PTM]preda: Kills 7 | Died: YES || [PTM]blAckzOnE_ (HP: 30 / '7.6' ft) Desert Eagle
+
+
+
+
+
+
+Round 1 | Base id 9 (Montgomery) - 11/20 - Started: 17:43:53 @ Ended: 17:47:33 (Lasted 3:40) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 1 Deaths: 1 | Ratio: '1.00' > WIN < 
+
+>> [PTM]MATRIX4058: Kills 0 | Died: YES || [PTM]hp (HP: 200 / '64.7' ft) Sniper Rifle
+
+>> [PTM]preda: Kills 1 | Died: NO
+
+
+
+>>>> Team Rock: Attack | Kills: 1 Deaths: 1 | Ratio: '1.00'  > LOSS <
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTM]preda (HP: 81 / '13.3' ft) Desert Eagle
+
+
+
+
+
+
+Round 2 | Base id 9 (Montgomery) - 11/20 - Started: 17:47:56 @ Ended: 17:56:41 (Lasted 8:45) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 2 Deaths: 0 | Ratio: '2.00' > WIN (HP Left: 132) < 
+
+>> [PTM]MATRIX4058: Kills 2 | Died: NO
+
+>> [PTM]preda: Kills 1 | Died: NO
+
+
+
+>>>> Team Rock: Defend | Kills: 0 Deaths: 2 | Ratio: '-2.00'  > LOSS <
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTM]MATRIX4058 (HP: 107 / '74.0' ft) Sniper Rifle
+
+>> [PTM]hp: Kills 1 | Died: YES || [PTM]MATRIX4058 (HP: 82 / '14.6' ft) Sniper Rifle
+
+
+
+
+
+
+Round 3 | Base id 42 (Angel pines Junkyard) - 11/20 - Started: 17:57:19 @ Ended: 18:03:25 (Lasted 6:06) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 3 Deaths: 1 | Ratio: '3.00' > WIN (HP Left: 16) < 
+
+>> [PTM]MATRIX4058: Kills 2 | Died: NO
+
+>> [PTM]preda: Kills 4 | Died: YES || [PTM]hp (HP: 29 / '10.7' ft) Pump Shotgun
+
+
+
+>>>> Team Rock: Attack | Kills: 1 Deaths: 3 | Ratio: '0.33'  > LOSS <
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTM]preda (HP: 55 / '7.7' ft) Sniper Rifle
+
+>> [PTM]hp: Kills 2 | Died: YES || [PTM]preda (HP: 4 / '10.7' ft) Sniper Rifle
+
+>> [PTMm]TUROK: Kills 0 | Died: YES || [PTM]preda (HP: 143 / '18.7' ft) Sniper Rifle
+
+
+
+
+
+
+Round 4 | Base id 52 (Wangs Cars) - 11/20 - Started: 18:03:52 @ Ended: 18:07:53 (Lasted 4:01) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+
+
+>>>> Team Rock: Defend | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 381) <
+
+>> [PTM]blAckzOnE_: Kills 1 | Died: NO
+
+>> [PTM]hp: Kills 2 | Died: NO
+
+>> [PTMm]TUROK: Kills 0 | Died: NO
+
+
+
+
+
+
+Round 5 | Base id 36 (Yellow Bell Station) - 11/20 - Started: 18:08:56 @ Ended: 18:18:05 (Lasted 9:09) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 2 Deaths: 2 | Ratio: '1.00' > LOSS < 
+
+>> [PTM]MATRIX4058: Kills 4 | Died: YES || [PTMm]TUROK (HP: 153 / '11.2' ft) Pump Shotgun
+
+>> [PTM]preda: Kills 4 | Died: YES || [PTM]blAckzOnE_ (HP: 55 / '11.0' ft) Pump Shotgun
+
+
+
+>>>> Team Rock: Attack | Kills: 2 Deaths: 2 | Ratio: '1.00'  > WIN (HP Left: 153) <
+
+>> [PTM]blAckzOnE_: Kills 2 | Died: YES || [PTM]preda (HP: 32 / '7.8' ft) Sniper Rifle
+
+>> [PTM]Phz: Kills 2 | Died: YES || [PTM]MATRIX4058 (HP: 10 / '14.3' ft) Pump Shotgun
+
+>> [PTMm]TUROK: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 1 | Base id 22 (Grove Street) - 11/20 - Started: 18:24:08 @ Ended: 18:28:24 (Lasted 4:16) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 5 Deaths: 2 | Ratio: '2.50' > WIN (HP Left: 260) < 
+
+>> [PTM]MATRIX4058: Kills 0 | Died: YES || [Rk]P3P37R (HP: 2 / '36.3' ft) Combat Shotgun
+
+>> [PTM]preda: Kills 4 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 1 | Died: NO
+
+>> [PTM]hp: Kills 0 | Died: NO
+
+>> [PTMm]TUROK: Kills 0 | Died: YES || [Rk]Vixxi (HP: 61 / '71.7' ft) Sniper Rifle
+
+
+
+>>>> Team Rk: Defend | Kills: 2 Deaths: 5 | Ratio: '0.40'  > LOSS <
+
+>> [Rk]Vixxi: Kills 1 | Died: YES || [PTM]blAckzOnE_ (HP: 59 / '37.1' ft) M4
+
+>> [Rk]Duality.: Kills 0 | Died: YES || [PTM]preda (HP: 33 / '10.6' ft) Combat Shotgun
+
+>> [Rk]P3P37R: Kills 1 | Died: YES || [PTM]preda (HP: 1 / '54.7' ft) AK47
+
+>> New: Kills 0 | Died: YES || [PTM]preda (HP: 33 / '8.1' ft) Combat Shotgun
+
+
+
+
+
+
+Round 2 | Base id 133 () - 11/20 - Started: 18:29:15 @ Ended: 18:33:10 (Lasted 3:55) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 2 | Ratio: '2.50' > WIN (HP Left: 297) < 
+
+>> [PTM]MATRIX4058: Kills 1 | Died: NO
+
+>> [PTM]preda: Kills 4 | Died: YES || [Rk]Vixxi (HP: 94 / '41.9' ft) Sniper Rifle
+
+>> [PTM]blAckzOnE_: Kills 5 | Died: NO
+
+>> [PTM]hp: Kills 0 | Died: NO
+
+>> [PTMm]TUROK: Kills 0 | Died: YES || [Rk]P3P37R (HP: 44 / '9.9' ft) Combat Shotgun
+
+
+
+>>>> Team Rk: Attack | Kills: 2 Deaths: 5 | Ratio: '0.40'  > LOSS <
+
+>> [Rk]Vixxi: Kills 2 | Died: YES || [PTM]blAckzOnE_ (HP: 48 / '12.4' ft) M4
+
+>> [Rk]Striker: Kills 0 | Died: YES || [PTM]blAckzOnE_ (HP: 190 / '9.6' ft) Pump Shotgun
+
+>> [Rk]P3P37R: Kills 2 | Died: YES || [PTM]MATRIX4058 (HP: 87 / '17.3' ft) Desert Eagle
+
+>> New: Kills 0 | Died: YES || [PTM]blAckzOnE_ (HP: 18 / '16.8' ft) M4
+
+
+
+
+
+
+Round 3 | Base id 54 (Unity Station) - 11/20 - Started: 18:33:26 @ Ended: 18:38:21 (Lasted 4:55) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 5 Deaths: 1 | Ratio: '5.00' > WIN (HP Left: 645) < 
+
+>> [PTM]MATRIX4058: Kills 2 | Died: NO
+
+>> [PTM]preda: Kills 7 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 5 | Died: YES || [Rk]Duality. (HP: 21 / '7.9' ft) Desert Eagle
+
+>> [PTM]hp: Kills 0 | Died: NO
+
+>> [PTMm]TUROK: Kills 1 | Died: NO
+
+
+
+>>>> Team Rk: Defend | Kills: 1 Deaths: 5 | Ratio: '0.20'  > LOSS <
+
+>> [Rk]Striker: Kills 0 | Died: YES || [PTMm]TUROK (HP: 160 / '24.9' ft) Combat Shotgun
+
+>> [Rk]Duality.: Kills 1 | Died: YES || [PTM]MATRIX4058 (HP: 190 / '5.9' ft) Desert Eagle
+
+>> [Rk]P3P37R: Kills 2 | Died: YES || [PTM]preda (HP: 109 / '21.8' ft) Pump Shotgun
+
+>> New: Kills 0 | Died: YES || [PTM]preda (HP: 155 / '18.3' ft) Desert Eagle
+
+
+
+
+
+
+Round 4 | Base id 87 (Leafy Hollow) - 11/20 - Started: 18:38:42 @ Ended: 18:42:51 (Lasted 4:09) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 5 Deaths: 1 | Ratio: '5.00' > WIN (HP Left: 391) < 
+
+>> [PTM]MATRIX4058: Kills 2 | Died: NO
+
+>> [PTM]preda: Kills 8 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 7 | Died: NO
+
+>> [PTM]hp: Kills 2 | Died: NO
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || [Rk]P3P37R (HP: 200 / '5.6' ft) Combat Shotgun
+
+
+
+>>>> Team Rk: Attack | Kills: 1 Deaths: 5 | Ratio: '0.20'  > LOSS <
+
+>> [Rk]Striker: Kills 0 | Died: YES || [PTM]hp (HP: 150 / '76.6' ft) Sniper Rifle
+
+>> [Rk]Duality.: Kills 1 | Died: YES || [PTM]blAckzOnE_ (HP: 58 / '34.3' ft) M4
+
+>> New: Kills 0 | Died: YES || [PTM]preda (HP: 63 / '17.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 5 | Base id 40 (Mama's House) - 11/20 - Started: 18:43:04 @ Ended: 18:54:19 (Lasted 11:15) | Defenders Held Base
+
+
+>>>> Team PTM: Attack | Kills: 4 Deaths: 4 | Ratio: '1.00' > WIN < 
+
+>> [PTM]MATRIX4058: Kills 3 | Died: YES || [Rk]P3P37R (HP: 28 / '49.1' ft) AK47
+
+>> [PTM]preda: Kills 8 | Died: YES || [PTM]blAckzOnE_ (HP: 107 / '54.3' ft) Minigun
+
+>> [PTM]blAckzOnE_: Kills 7 | Died: YES || [PTM]preda (HP: 200 / '68.9' ft) Minigun
+
+>> [PTM]hp: Kills 5 | Died: NO
+
+>> [PTMm]TUROK: Kills 1 | Died: YES || New (HP: 30 / '3.3' ft) Pump Shotgun
+
+
+
+>>>> Team Rk: Defend | Kills: 4 Deaths: 4 | Ratio: '1.00'  > LOSS <
+
+>> [Rk]ChatO_: Kills 0 | Died: YES || [PTM]MATRIX4058 (HP: 8 / '24.6' ft) Pump Shotgun
+
+>> [Rk]Striker: Kills 0 | Died: YES || [PTM]hp (HP: 56 / '164.8' ft) Sniper Rifle
+
+>> [Rk]P3P37R: Kills 5 | Died: NO
+
+>> New: Kills 2 | Died: YES || [PTM]hp (HP: 56 / '159.7' ft) Sniper Rifle
+
+
+
+
+
+
+Round 1 | Base id 61 (Las Colinas) - 11/21 - Started: 18:07:52 @ Ended: 18:09:48 (Lasted 1:56) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: YES || Adelyn_ (HP: 165 / '7.6' ft) Desert Eagle
+
+
+
+>>>> Team Rk: Defend | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 165) <
+
+>> Adelyn_: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 2 | Base id 99 () - 11/21 - Started: 18:09:52 @ Ended: 18:12:38 (Lasted 2:46) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 0 | Ratio: '0.00' > WIN < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: NO
+
+
+
+>>>> Team Rk: Attack | Kills: 0 Deaths: 0 | Ratio: '0.00'  > LOSS <
+
+>> Adelyn_: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 3 | Base id 71 (Chinatown Lockup) - 11/21 - Started: 18:12:43 @ Ended: 18:15:21 (Lasted 2:38) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00' > WIN (HP Left: 35) < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: NO
+
+
+
+>>>> Team Rk: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00'  > LOSS <
+
+>> Adelyn_: Kills 1 | Died: YES || [PTM]Al_Pacino (HP: 35 / '7.0' ft) Pump Shotgun
+
+
+
+
+
+
+Round 4 | Base id 56 (Vinewood Country Club) - 11/21 - Started: 18:15:25 @ Ended: 18:16:55 (Lasted 1:30) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || Adelyn_ (HP: 195 / '99.1' ft) Sniper Rifle
+
+
+
+>>>> Team Rk: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 195) <
+
+>> Adelyn_: Kills 2 | Died: NO
+
+
+
+
+
+
+Round 5 | Base id 13 (Las Payasadas) - 11/21 - Started: 18:17:00 @ Ended: 18:19:15 (Lasted 2:15) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00' > WIN (HP Left: 193) < 
+
+>> [PTM]Al_Pacino: Kills 2 | Died: NO
+
+
+
+>>>> Team Rk: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00'  > LOSS <
+
+>> Adelyn_: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 193 / '6.7' ft) Pump Shotgun
+
+
+
+
+
+
+Round 6 | Base id 14 (SF Parking Garage) - 11/21 - Started: 18:19:33 @ Ended: 18:22:15 (Lasted 2:42) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 1 Deaths: 0 | Ratio: '1.00' > WIN (HP Left: 18) < 
+
+>> [PTM]Al_Pacino: Kills 3 | Died: NO
+
+
+
+>>>> Team Rk: Attack | Kills: 0 Deaths: 1 | Ratio: '-1.00'  > LOSS <
+
+>> Adelyn_: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 18 / '7.6' ft) Pump Shotgun
+
+
+
+
+
+
+Round 7 | Base id 19 (Verdant Bluffs Hotel) - 11/21 - Started: 18:22:19 @ Ended: 18:25:17 (Lasted 2:58) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00' > WIN (HP Left: 148) < 
+
+>> [PTM]Al_Pacino: Kills 4 | Died: NO
+
+
+
+>>>> Team Rk: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00'  > LOSS <
+
+>> Adelyn_: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 148 / '9.2' ft) Pump Shotgun
+
+
+
+
+
+
+Round 8 | Base id 110 () - 11/21 - Started: 18:25:22 @ Ended: 18:28:26 (Lasted 3:04) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 4 | Died: YES || Adelyn_ (HP: 51 / '6.3' ft) Pump Shotgun
+
+
+
+>>>> Team Rk: Attack | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 51) <
+
+>> Adelyn_: Kills 3 | Died: NO
+
+
+
+
+
+
+Round 9 | Base id 12 (Ocean Docks Warehouse) - 11/21 - Started: 18:28:31 @ Ended: 18:31:25 (Lasted 2:55) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 1 | Ratio: '-1.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 4 | Died: YES || Adelyn_ (HP: 57 / '5.4' ft) Pump Shotgun
+
+
+
+>>>> Team Rk: Defend | Kills: 1 Deaths: 0 | Ratio: '1.00'  > WIN (HP Left: 57) <
+
+>> Adelyn_: Kills 4 | Died: NO
+
+
+
+
+<><><><><><> Final Results <><><><><><>
+
+------------------------------------------------------------------------
+
+
+*~ Team: PTM | Rounds Won: 5 | Kills: 4 Deaths: 4 | Ratio: 1.00 *~
+
+>> [PTM]Al_Pacino | Kills: 4 Deaths: '4 | Ratio: 1.00 <<
+
+------------------------------------------------------------------------
+
+*~ Team: Rk | Rounds Won: 4 | Kills: 4 Deaths: 4 | Ratio: 1.00 *~
+
+>> Adelyn_ | Kills: 4 Deaths: 4 | Ratio: 1.00 <<
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+Round 1 | Base id 78 (LS Construction Site) - 11/22 - Started: 17:47:28 @ Ended: 17:54:59 (Lasted 7:31) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 2 | Ratio: '1.50' > WIN (HP Left: 158) < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: YES || kydo (HP: 180 / '58.5' ft) Sniper Rifle
+
+>> [PTMm]MoN_: Kills 2 | Died: YES || kydo (HP: 175 / '18.0' ft) Pump Shotgun
+
+
+
+>>>> Team bernie: Defend | Kills: 2 Deaths: 3 | Ratio: '0.66'  > LOSS <
+
+>> kydo: Kills 2 | Died: YES || [PTM]Phz (HP: 158 / '88.1' ft) Sniper Rifle
+
+>> Th3PaKySTaN: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 104 / '9.4' ft) Desert Eagle
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 150 / '5.7' ft) Desert Eagle
+
+
+
+
+
+
+Round 2 | Base id 114 () - 11/22 - Started: 17:55:04 @ Ended: 17:59:51 (Lasted 4:47) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 2 Deaths: 0 | Ratio: '2.00' > WIN < 
+
+>> [PTM]Phz: Kills 0 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 1 | Died: NO
+
+>> [PTMm]MoN_: Kills 3 | Died: NO
+
+
+
+>>>> Team bernie: Attack | Kills: 0 Deaths: 2 | Ratio: '-2.00'  > LOSS <
+
+>> kydo: Kills 2 | Died: YES || [PTM]Al_Pacino (HP: 129 / '10.6' ft) Pump Shotgun
+
+>> Th3PaKySTaN: Kills 0 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 155 / '6.8' ft) Pump Shotgun
+
+
+
+
+
+
+Round 3 | Base id 64 (East LS Housing Complex) - 11/22 - Started: 17:59:59 @ Ended: 18:05:05 (Lasted 5:06) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 1 | Ratio: '3.00' > WIN (HP Left: 205) < 
+
+>> [PTM]Phz: Kills 0 | Died: NO
+
+>> [PTM]Al_Pacino: Kills 3 | Died: YES || [PTM]blAckzOnE_ (HP: 42 / '11.2' ft) Sniper Rifle
+
+>> [PTMm]MoN_: Kills 4 | Died: NO
+
+
+
+>>>> Team bernie: Defend | Kills: 1 Deaths: 3 | Ratio: '0.33'  > LOSS <
+
+>> Th3PaKySTaN: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 64 / '26.2' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 0 | Died: NO
+
+>> [PTM]blAckzOnE_: Kills 1 | Died: YES || [PTMm]MoN_ (HP: 142 / '1.3' ft) Pump Shotgun
+
+
+
+
+
+
+Round 1 | Base id 22 (Grove Street) - 11/22 - Started: 18:08:08 @ Ended: 18:12:39 (Lasted 4:31) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 3 | Ratio: '-3.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 0 | Died: YES || [PTM]M4TRIX4057 (HP: 150 / '31.3' ft) Combat Shotgun
+
+>> [PTM]Phz: Kills 0 | Died: YES || [PTM]evol (HP: 200 / '96.6' ft) Sniper Rifle
+
+>> Th3PaKySTaN: Kills 0 | Died: YES || [PTM]evol (HP: 200 / '78.1' ft) Sniper Rifle
+
+
+
+>>>> Team bernie: Defend | Kills: 3 Deaths: 0 | Ratio: '3.00'  > WIN (HP Left: 625) <
+
+>> [PTM]M4TRIX4057: Kills 1 | Died: NO
+
+>> [PTMm]jenkys: Kills 0 | Died: NO
+
+>> [PTM]evol: Kills 2 | Died: NO
+
+
+
+
+
+
+Round 2 | Base id 32 (SF Police Dep.) - 11/22 - Started: 18:12:52 @ Ended: 18:19:21 (Lasted 6:29) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 2 Deaths: 4 | Ratio: '0.50' > LOSS < 
+
+>> [PTM]Phz: Kills 0 | Died: YES || [PTMm]MoN_ (HP: 31 / '12.5' ft) Pump Shotgun
+
+
+
+>>>> Team bernie: Attack | Kills: 4 Deaths: 2 | Ratio: '2.00'  > WIN (HP Left: 69) <
+
+>> [PTMm]jenkys: Kills 0 | Died: NO
+
+>> Th3PaKySTaN: Kills 0 | Died: YES || [PTM]Al_Pacino (HP: 53 / '28.1' ft) Combat Shotgun
+
+
+
+
+
+
+Round 3 | Base id 79 (Marina Houses) - 11/22 - Started: 18:19:26 @ Ended: 18:25:52 (Lasted 6:26) | Attackers Captured CP
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 2 | Ratio: '-2.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || [PTMm]jenkys (HP: 100 / '16.0' ft) Pump Shotgun
+
+>> [PTM]Phz: Kills 0 | Died: NO
+
+>> [PTM]evol: Kills 3 | Died: YES || Th3PaKySTaN (HP: 157 / '3.5' ft) Desert Eagle
+
+>> [PTMm]MoN_: Kills 0 | Died: NO
+
+
+
+>>>> Team bernie: Defend | Kills: 2 Deaths: 0 | Ratio: '2.00'  > WIN <
+
+>> [PTM]M4TRIX4057: Kills 1 | Died: NO
+
+>> Th3PaKySTaN: Kills 1 | Died: NO
+
+>> [PTM]PREDA: Kills 0 | Died: NO
+
+
+
+
+
+
+Round 4 | Base id 69 (Foster Valley) - 11/22 - Started: 18:26:14 @ Ended: 18:33:21 (Lasted 7:07) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 1 Deaths: 5 | Ratio: '0.20' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || Th3PaKySTaN (HP: 200 / '12.1' ft) Desert Eagle
+
+>> [PTM]Phz: Kills 1 | Died: YES || Th3PaKySTaN (HP: 54 / '5.7' ft) Desert Eagle
+
+>> punkers.Predator_: Kills 0 | Died: YES || Th3PaKySTaN (HP: 170 / '17.1' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 3 | Died: YES || [PTM]M4TRIX4057 (HP: 64 / '128.5' ft) Sniper Rifle
+
+>> [PTMm]MoN_: Kills 0 | Died: YES || punkers.Predator_ (HP: 109 / '20.5' ft) N/A
+
+
+
+>>>> Team bernie: Attack | Kills: 5 Deaths: 1 | Ratio: '5.00'  > WIN (HP Left: 118) <
+
+>> [PTM]M4TRIX4057: Kills 2 | Died: NO
+
+>> Th3PaKySTaN: Kills 4 | Died: NO
+
+>> [PTMm]jenkys: Kills 0 | Died: YES || [PTM]Phz (HP: 130 / '6.5' ft) Pump Shotgun
+
+
+
+
+
+
+Round 5 | Base id 43 (SF Crack Warehouse) - 11/22 - Started: 18:34:23 @ Ended: 18:40:13 (Lasted 5:50) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 5 | Ratio: '0.60' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || [PTMm]rugg3d (HP: 15 / '4.2' ft) Desert Eagle
+
+>> [PTM]Phz: Kills 2 | Died: YES || [PTMm]MoN_ (HP: 153 / '20.7' ft) Desert Eagle
+
+>> [PTM]M4TRIX4057: Kills 2 | Died: YES || [PTMm]jenkys (HP: 193 / '21.1' ft) Desert Eagle
+
+>> Th3PaKySTaN: Kills 4 | Died: YES || [PTMm]jenkys (HP: 58 / '7.7' ft) Desert Eagle
+
+>> punkers.Predator_: Kills 2 | Died: YES || [PTM]Wojtekez (HP: 46 / '7.3' ft) Pump Shotgun
+
+
+
+>>>> Team bernie: Defend | Kills: 5 Deaths: 3 | Ratio: '1.66'  > WIN (HP Left: 238) <
+
+>> punkers_iser: Kills 0 | Died: YES || [PTM]Phz (HP: 200 / '18.7' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 3 | Died: YES || punkers.Predator_ (HP: 117 / '20.1' ft) Combat Shotgun
+
+>> [PTMm]MoN_: Kills 1 | Died: NO
+
+>> [PTM]Wojtekez: Kills 1 | Died: NO
+
+>> [PTMm]jenkys: Kills 2 | Died: NO
+
+>> [PTMm]rugg3d: Kills 1 | Died: YES || punkers.Predator_ (HP: 5 / '4.1' ft) MP5
+
+
+
+
+
+
+Round 6 | Base id 122 () - 11/22 - Started: 18:40:18 @ Ended: 18:47:42 (Lasted 7:24) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 0 Deaths: 5 | Ratio: '-5.00' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || [PTMm]MoN_ (HP: 158 / '10.2' ft) Pump Shotgun
+
+>> [PTM]Phz: Kills 2 | Died: YES || [PTMm]MoN_ (HP: 158 / '8.4' ft) Pump Shotgun
+
+>> [PTM]M4TRIX4057: Kills 2 | Died: YES || [PTM]Wojtekez (HP: 118 / '6.4' ft) Combat Shotgun
+
+>> Th3PaKySTaN: Kills 4 | Died: YES || punkers_iser (HP: 165 / '15.0' ft) Pump Shotgun
+
+>> punkers.Predator_: Kills 2 | Died: YES || punkers_iser (HP: 135 / '30.9' ft) Desert Eagle
+
+
+
+>>>> Team bernie: Attack | Kills: 5 Deaths: 1 | Ratio: '5.00'  > WIN (HP Left: 605) <
+
+>> punkers_iser: Kills 2 | Died: YES || [PTM]Phz (HP: 200 / '18.7' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 3 | Died: NO
+
+>> [PTMm]MoN_: Kills 3 | Died: NO
+
+>> [PTM]Wojtekez: Kills 2 | Died: NO
+
+>> [PTMm]jenkys: Kills 2 | Died: NO
+
+>> [PTMm]rugg3d: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 7 | Base id 38 (Bone County House) - 11/22 - Started: 18:47:56 @ Ended: 18:54:13 (Lasted 6:17) | Attackers Captured CP
+
+
+>>>> Team PTM: Attack | Kills: 2 Deaths: 5 | Ratio: '0.40' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 1 | Died: YES || [PTM]evol (HP: 195 / '129.4' ft) Sniper Rifle
+
+>> [PTM]Phz: Kills 3 | Died: NO
+
+>> [PTM]M4TRIX4057: Kills 2 | Died: YES || [PTMm]MoN_ (HP: 168 / '16.1' ft) Pump Shotgun
+
+>> punkers_Jason: Kills 0 | Died: YES || [GSF]thaz_ (HP: 48 / '27.8' ft) Desert Eagle
+
+
+
+>>>> Team bernie: Defend | Kills: 5 Deaths: 2 | Ratio: '2.50'  > WIN <
+
+>> punkers_iser: Kills 2 | Died: YES || [PTM]Phz (HP: 114 / '24.1' ft) Sniper Rifle
+
+>> [PTM]evol: Kills 4 | Died: NO
+
+>> [PTMm]MoN_: Kills 6 | Died: NO
+
+>> [PTMm]jenkys: Kills 2 | Died: YES || Th3PaKySTaN (HP: 25 / '12.7' ft) Desert Eagle
+
+>> [PTMm]rugg3d: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 8 | Base id 100 () - 11/22 - Started: 18:54:32 @ Ended: 18:57:23 (Lasted 2:51) | Elimination
+
+
+>>>> Team PTM: Defend | Kills: 3 Deaths: 6 | Ratio: '0.50' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 3 | Died: YES || [GSF]thaz_ (HP: 158 / '12.5' ft) Pump Shotgun
+
+>> [PTM]Phz: Kills 3 | Died: YES || [PTMm]jenkys (HP: 61 / '17.6' ft) Desert Eagle
+
+>> [PTM]M4TRIX4057: Kills 2 | Died: YES || [PTM]Wojtekez (HP: 200 / '31.8' ft) Combat Shotgun
+
+>> Th3PaKySTaN: Kills 5 | Died: YES || punkers_iser (HP: 200 / '10.0' ft) Desert Eagle
+
+>> [PTM]evol: Kills 5 | Died: YES || [PTM]Wojtekez (HP: 109 / '9.6' ft) Combat Shotgun
+
+>> punkers_Jason: Kills 0 | Died: YES || [PTMm]jenkys (HP: 107 / '15.4' ft) Desert Eagle
+
+
+
+>>>> Team bernie: Attack | Kills: 6 Deaths: 3 | Ratio: '2.00'  > WIN (HP Left: 291) <
+
+>> [PTMm]MoN_: Kills 6 | Died: NO
+
+>> [GSF]thaz_: Kills 2 | Died: NO
+
+>> [PTMm]jenkys: Kills 4 | Died: NO
+
+>> [PTMm]rugg3d: Kills 1 | Died: YES || [PTM]evol (HP: 180 / '28.8' ft) Sniper Rifle
+
+>> [PTM]Wojtekez: Kills 4 | Died: YES || [PTM]Al_Pacino (HP: 99 / '5.2' ft) Combat Shotgun
+
+
+
+
+
+
+Round 9 | Base id 17 (Los Santos Market) - 11/22 - Started: 18:57:32 @ Ended: 19:04:23 (Lasted 6:51) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 3 Deaths: 4 | Ratio: '0.75' > LOSS < 
+
+>> [PTM]Al_Pacino: Kills 5 | Died: YES || [PTMm]MoN_ (HP: 27 / '15.3' ft) Pump Shotgun
+
+>> [PTM]Phz: Kills 3 | Died: YES || [GSF]thaz_ (HP: 25 / '1.8' ft) Pump Shotgun
+
+>> [PTM]evol: Kills 5 | Died: YES || [GSF]thaz_ (HP: 25 / '14.4' ft) Sniper Rifle
+
+>> punkers_Jason: Kills 1 | Died: YES || [PTMm]jenkys (HP: 97 / '2.9' ft) Desert Eagle
+
+
+
+>>>> Team bernie: Defend | Kills: 4 Deaths: 3 | Ratio: '1.33'  > WIN (HP Left: 79) <
+
+>> punkers_iser: Kills 3 | Died: YES || [PTM]Al_Pacino (HP: 102 / '6.0' ft) Pump Shotgun
+
+>> [PTMm]MoN_: Kills 7 | Died: YES || punkers_Jason (HP: 37 / '17.9' ft) Pump Shotgun
+
+>> [GSF]thaz_: Kills 4 | Died: NO
+
+>> [PTMm]jenkys: Kills 5 | Died: NO
+
+
+
+
+
+
+Round 1 | Base id 52 (Wangs Cars) - 11/23 - Started: 13:17:21 @ Ended: 13:21:30 (Lasted 4:09) | Attackers Captured CP
+
+
+>>>> Team PTM: Defend | Kills: 1 Deaths: 1 | Ratio: '1.00' > WIN < 
+
+>> [PTM]preda: Kills 1 | Died: NO
+
+>> [PTMm]jenkys: Kills 0 | Died: YES || [PTMm]Ruggedh (HP: 200 / '8.0' ft) Pump Shotgun
+
+
+
+>>>> Team bernie: Attack | Kills: 1 Deaths: 1 | Ratio: '1.00'  > LOSS <
+
+>> [PTMm]Ruggedh: Kills 1 | Died: NO
+
+>> GoshA13: Kills 0 | Died: YES || [PTM]preda (HP: 109 / '24.2' ft) Pump Shotgun
+
+
+
+
+
+
+Round 2 | Base id 12 (Ocean Docks Warehouse) - 11/23 - Started: 13:21:45 @ Ended: 13:26:33 (Lasted 4:48) | Elimination
+
+
+>>>> Team PTM: Attack | Kills: 0 Deaths: 2 | Ratio: '-2.00' > LOSS < 
+
+>> [PTM]preda: Kills 1 | Died: YES || [PTMm]Ruggedh (HP: 58 / '0.7' ft) N/A
+
+>> [PTMm]jenkys: Kills 0 | Died: YES || GoshA13 (HP: 143 / '15.3' ft) Desert Eagle
+
+
+
+>>>> Team suka: Defend | Kills: 2 Deaths: 0 | Ratio: '2.00'  > WIN (HP Left: 119) <
+
+>> [PTMm]Ruggedh: Kills 2 | Died: NO
+
+>> GoshA13: Kills 1 | Died: NO
+
+
+
+
+
+
+Round 3 | TDM - Stealth & Survive id 10 (Warehouse 2 (Int)) - 11/23 - Started: 13:31:51 @ Ended: 13:33:33 (Lasted 1:43) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 2 Deaths: 1 | Ratio: '2.00' > WIN (HP Left: 97) < 
+
+>> GoshA13: Kills 3 | Died: NO
+
+>> [PTM]preda: Kills 1 | Died: YES || [PTMm]Ruggedh (HP: 8 / '6.7' ft) Desert Eagle
+
+
+
+>>>> Team suka: Defend | Kills: 1 Deaths: 2 | Ratio: '0.50'  > LOSS <
+
+>> [PTMm]Ruggedh: Kills 3 | Died: YES || GoshA13 (HP: 97 / '22.7' ft) Pump Shotgun
+
+>> [PTMm]jenkys: Kills 0 | Died: YES || GoshA13 (HP: 143 / '10.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 4 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:35:29 @ Ended: 13:40:07 (Lasted 4:38) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 0 Deaths: 2 | Ratio: '-2.00' > LOSS < 
+
+>> GoshA13: Kills 3 | Died: YES || [PTMm]jenkys (HP: 71 / '31.5' ft) Sniper Rifle
+
+>> [PTM]preda: Kills 1 | Died: YES || [PTMm]jenkys (HP: 71 / '10.8' ft) Sniper Rifle
+
+
+
+>>>> Team suka: Defend | Kills: 2 Deaths: 0 | Ratio: '2.00'  > WIN (HP Left: 96) <
+
+>> [PTMm]Ruggedh: Kills 3 | Died: NO
+
+>> [PTMm]jenkys: Kills 2 | Died: NO
+
+
+
+
+
+
+Round 5 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:40:15 @ Ended: 13:43:06 (Lasted 2:51) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 0 Deaths: 2 | Ratio: '-2.00' > LOSS < 
+
+>> GoshA13: Kills 3 | Died: YES || [PTMm]jenkys (HP: 71 / '10.0' ft) Sniper Rifle
+
+>> [PTM]preda: Kills 1 | Died: YES || [PTMm]Ruggedh (HP: 29 / '12.6' ft) Desert Eagle
+
+
+
+>>>> Team suka: Defend | Kills: 2 Deaths: 0 | Ratio: '2.00'  > WIN (HP Left: 100) <
+
+>> [PTMm]Ruggedh: Kills 4 | Died: NO
+
+>> [PTMm]jenkys: Kills 3 | Died: NO
+
+
+
+
+
+
+Round 6 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:43:11 @ Ended: 13:46:32 (Lasted 3:21) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 2 Deaths: 0 | Ratio: '2.00' > WIN (HP Left: 232) < 
+
+>> GoshA13: Kills 4 | Died: NO
+
+>> [PTM]preda: Kills 2 | Died: NO
+
+
+
+>>>> Team suka: Defend | Kills: 0 Deaths: 2 | Ratio: '-2.00'  > LOSS <
+
+>> [PTMm]Ruggedh: Kills 4 | Died: YES || GoshA13 (HP: 148 / '14.5' ft) Desert Eagle
+
+>> [PTMm]jenkys: Kills 3 | Died: YES || [PTM]preda (HP: 84 / '15.4' ft) Sniper Rifle
+
+
+
+
+
+
+Round 7 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:46:36 @ Ended: 13:49:46 (Lasted 3:10) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 1 Deaths: 1 | Ratio: '1.00' > LOSS < 
+
+>> [PTM]preda: Kills 3 | Died: YES || GoshA13 (HP: 59 / '4.0' ft) Pump Shotgun
+
+
+
+>>>> Team suka: Defend | Kills: 1 Deaths: 1 | Ratio: '1.00'  > WIN (HP Left: 59) <
+
+>> GoshA13: Kills 5 | Died: NO
+
+>> [PTMm]jenkys: Kills 3 | Died: YES || [PTM]preda (HP: 50 / '7.7' ft) Sniper Rifle
+
+
+
+
+
+
+Round 8 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:49:57 @ Ended: 13:54:42 (Lasted 4:45) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 1 Deaths: 1 | Ratio: '1.00' > LOSS < 
+
+>> [PTM]preda: Kills 4 | Died: YES || [PTMm]jenkys (HP: 104 / '13.8' ft) Pump Shotgun
+
+
+
+>>>> Team suka: Defend | Kills: 1 Deaths: 1 | Ratio: '1.00'  > WIN (HP Left: 104) <
+
+>> GoshA13: Kills 5 | Died: YES || [PTM]preda (HP: 104 / '26.8' ft) Sniper Rifle
+
+>> [PTMm]jenkys: Kills 4 | Died: NO
+
+
+
+
+
+
+Round 9 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:54:51 @ Ended: 13:58:10 (Lasted 3:19) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 2 Deaths: 1 | Ratio: '2.00' > WIN (HP Left: 9) < 
+
+>> [PTM]preda: Kills 6 | Died: NO
+
+
+
+>>>> Team suka: Defend | Kills: 1 Deaths: 2 | Ratio: '0.50'  > LOSS <
+
+>> GoshA13: Kills 6 | Died: YES || [PTM]preda (HP: 9 / '31.4' ft) Sniper Rifle
+
+>> [PTMm]jenkys: Kills 4 | Died: YES || [PTM]preda (HP: 50 / '13.5' ft) Pump Shotgun
+
+
+
+
+
+
+Round 10 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 13:58:18 @ Ended: 14:00:32 (Lasted 2:14) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 2 Deaths: 0 | Ratio: '2.00' > WIN (HP Left: 168) < 
+
+>> punkers_noname: Kills 1 | Died: NO
+
+>> [PTM]preda: Kills 7 | Died: NO
+
+
+
+>>>> Team suka: Defend | Kills: 0 Deaths: 2 | Ratio: '-2.00'  > LOSS <
+
+>> GoshA13: Kills 6 | Died: YES || punkers_noname (HP: 107 / '10.0' ft) Desert Eagle
+
+>> [PTMm]jenkys: Kills 4 | Died: YES || [PTM]preda (HP: 107 / '13.4' ft) Pump Shotgun
+
+
+
+
+
+
+Round 11 | TDM - Stealth & Survive id 1 (Fort Carson) - 11/23 - Started: 14:00:37 @ Ended: 14:02:48 (Lasted 2:11) | Elimination
+
+
+>>>> Team pidr: Attack | Kills: 2 Deaths: 0 | Ratio: '2.00' > WIN (HP Left: 168) < 
+
+>> punkers_noname: Kills 3 | Died: NO
+
+>> [PTM]preda: Kills 7 | Died: NO
+
+
+
+>>>> Team suka: Defend | Kills: 0 Deaths: 2 | Ratio: '-2.00'  > LOSS <
+
+>> GoshA13: Kills 6 | Died: YES || punkers_noname (HP: 153 / '14.1' ft) Pump Shotgun
+
+>> [PTMm]jenkys: Kills 4 | Died: YES || punkers_noname (HP: 107 / '14.9' ft) Sniper Rifle
+

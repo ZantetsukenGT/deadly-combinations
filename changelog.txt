@@ -1,0 +1,1299 @@
+######################
+##    ChangeLog     ##
+######################
+
+*8.4.0
+- Release		    
+
+*8.3.7 BETA 3
+- Refs now get auto killed as soon as they damage a player playing in round
+	        
+*8.3.7 BETA 2
+- Added damage to end round textdraws instead of kills
+- Fixed refs getting gun menu
+
+*8.3.7 BETA 1
+- Added siren sound to capturing the checkpoint.
+- Added end round sounds.
+- Added Player[playerid][IsAudioStreaming] so we can tell who has an audio stream playing - note: this won't always be accurate cause we can't tell when audio streams stop on there own.
+	^ as a result: SOUND_GOTKILLED will now play correctly with the new onplayerdeath, SpawnPlayer changes.
+- should've fixed SetPlayerTeam bugs (feedback required)
+- Fixed OnPlayerDeath halting
+
+*8.3.7
+- Added /config joypad, removed DISABLE_JOYPAD define
+- End round textdraws will show disconnected player's kills and set them back if the player reconnects.
+- Made /car not spawn vehicle directly 5.0 units infront of you so you won't spawn cars in walls.
+- Possible fix for /spec halting on some servers, HideAllSpecTD no longer does player loop, and is renamed HideSpecTD
+- Updated the Geo IP
+- Added RemoveBuildingForPlayer on gas tanks and exploding barrels
+- Added /rcon tracking with OnRconLoginAttempt
+- Made it so /config deadtag can be turned off
+- Made it so when you die you will instantly respawn instead of a wavey camera
+- Made the serer not shut down if audio.ini was detected, but instead create audio.ini and set default settings.
+- Fixed GM destrying vehicles of other FS's or addons.
+- Fixed round textdraws showing the wrong number of total players if players had been /added
+- Possible fix for /spec again
+	        
+*8.3.6
+- Implemented DIALOG_STYLE_PASSWORD for password dialogs (and still DIALOG_STYLE_INPUT for 0.3c)
+- Made the 0.3d or 0.3c sa-mp version compile automatic (checks if 0.3d functions are defined, if they are it uses 0.3d, else 0.3c)
+- Removed /d occuring when round was paused.
+- Disallowed the gamemode to compile if MAX_PLAYERS is over 100
+- Fixed SetPlayerSkin crashes on spawn
+- Fixed players with 0 kills and 0 deaths showing in the final results
+- Fixed BeyondDiscon inaccurate deaths
+	        
+*8.3.5
+- Rewrote FixGaps() in MySQL, removed hundreds of useless sql queries
+- Added *ping* sound when you shoot someone
+- Made it so no ID given in /netstats shows the server's net stats
+- Made Top shooter work in 0.3c (untested)
+- Fixed /bases in mysql
+- Fixed a bug with /bases and /tdms where hidden tetdraws wouldn't show after the base/arena textdraws disappeared
+	        
+*8.3.4
+- Integrated 0.3d callback OnPlayerTakeDamage, round results and top shooter now utilizes damage data (0.3d)
+- Added define "SAMP_VERSION" - you can now choose to compile the gamemode for use with 0.3c and 0.3d
+- Renamed "dc_players_wepstats" sql table to "dc_players_wepstats"
+- Renamed "dc_weapons_classes" sql table to "dc_weapon_classes"
+- Cosmetic update to gamemode initation messages (server log/console)
+- Major SQL optimization with loading stuff, large reduction in sql queries
+- Removed GAMEMODE_TYPE and all gta-u code, as it has been depracated for more than a year
+- Fixed bug where refs would get HP and weapons reset when not spawned in a round
+- Finished audio panel which means toggling helicopter sound also works now
+- Integrated WhiteTigers sqlite geoip, it is built in
+- The old GeoIP which used GeoIP Plugin by totto has been removed
+- Disabled IsInvalidSkin() function, not needed since 0.3d
+	
+*8.3.3
+- Added weapons above the player name after picking from the menu.
+- Added auto-add after a duel for players that where in duels when the base started.
+- Added /vote -1, random round voting.
+- Added /config maxplimit
+- Removed all vending machines from the server.
+- Fixed a bug where the radar would show if you typed /intro.
+- Fixed /goto putting you in an invalid seat id and sometimes causing player crashes
+- Fixed /rem minusing the weapon limit by 2, instead of 1
+	        
+*8.3.2
+- Added /restoreall, /d, /netstats, and /swap as an alternative for /invert
+- Added /config audio - A configuration panel for game audio on the server. (0.3d)
+- Made round pausing put you into /d automaticly
+- Made it so you can hear car custom radio if surfing on it. (0.3d)
+- Added public PlayAudioStreamForPlayerEx(playerid, stream[])... so you can play audio streams on timer
+- Added place your bets sound to /vote. (0.3d)
+- Added new game sounds. (0.3d)
+- Added new custom vehicle radio stream feature. (0.3d)
+- Improved scoreboard textdraw
+- Improved diag labels
+- Improved 3D text above Checkpoint
+- Fixed a server crash related to menus
+- Fixed /sethealth and /setarmour no params using id 0 and then setting 0 health by default.
+- Fixed client crashing related to weapon menu's (for SOME unknown reason, frozen while picking weapons = bad)
+
+*8.3.1
+- Added /startbase int (random interior base) and /startbase ext (random exterior base), and /startbase -1 for a random of both types.
+- Added 3 second timer to round unpause
+- Added /config autopause [on/off] - autopause the round when players time out
+- Added /config spec [on/off] - enable/disable spec
+- Added /config cplayout [on/off] - if enabled, the CP will count down by the same number of players in the CP, as apose to 1 per second no matter how many people are in the cp if this is disabled.
+- Added 2 minute warning, and 30 second warning messages to players taking to long in bases.
+- Added /setscore [teamid] [score]
+- Added /setarmour [id] [armour]
+- Added /sethealth [id] [health]
+- Made /givemenu and /giveveh send a message to the whole server
+- Made it so defenders can't drive vehicles.
+- Made /teams output a more organized message back
+- Made the scores automaticly reset if no one is in the server for 10+ minutes.
+- Made the round clock change colors depending on the time on it.
+- Made WEB_URL an optional define.
+- Made /startbase not start any recently played bases (e.g, i do /startbase -1 it picks baseid 30, baseid 30 won't start (from random) for at least 10 more bases).
+- Fixed an exploit that let you spectate the CP while being a sub for the attacking team
+- Fixed scroll spec not working sometimes.
+- Fixed player's appearing to run in place when they where frozen
+- Fixed getting "Enemy Disconnected" duel message when you wern't in a duel, but in a round
+- Fixed tempdamage textdraw only showing for players in the round
+- Fixed being able to pass the weapon limit if very specific actions were done
+- Removed some unneeded debug messages.
+
+*8.3.0
+- Release
+		    
+ *8.2.5 BETA 22
+- Fixed the Spectating You textdraw not removing if the spectator disconnected from the server.
+- Fixed /skin saying "/s [skin]" instead of "/skin [skin id]"
+- Fixed kill board problems because it wasn't reset properly
+- Fixed a mysql error occuring if you put apostrophe's in things such as pw.
+- Fixed lobby weapons spelling error in mysql causing the config option to not be saved.
+- Fixed a server crash if paused players had been added into a round and then tried to pick weps after the round ended
+- Made ShowDeathMessages() require that person who died to be connected.
+- Fixed many client crashes related to invalid weapons, players very rarely crash now.
+- Fixed being able to /setteam players in rounds
+- Fixed duels not ending if a round was started and players where still dueling
+- Fixed final results allowing AFK players to not be frozen
+- Fixed /add not resetting duel vars if a player is in a duel.
+- Fixed not being able to join a duel while a round was started if not in the round.
+- Minor adjustment to spec scrolling
+- Fixed /serverinfo, was still showing [KR]
+- fixed issue with Base/TDMUpdate playing cp sound when its not supposed to
+- fixed bugs with spectate
+- Implemented HideAllSpecTD(playerid), hides spec td's for every player not just the person it thinks they are specing
+- Made it so /spec off resets players gSpectateID and Spec variables if they get not spectating error
+- fixed type in /afk
+- Changed spec scroll anti spam to 250ms between switching
+- Issue with server crashing if you spam spectate scroll has been resolved
+- Improved colors for duel system messages
+- Fix for issue where afk players added to round
+- Fixed /a create and /b create crashing the server in sql
+- Fixed auto given weap td. If the server decides that no weapon is auto given (/config), then it would not show the "auto_given_weap" textdraw while your choosing your weapons set.
+- Fixed Interior issues with TDMs.
+- Added protection/debug in spec
+- Made /config dm save it's setting after a restart
+- Fixed bug with autoreadd saving player pos near cp if loading screen is being shown
+- Fixed wrong order in ShowDeathMessages()
+- Now /config dm [on/off] only covers /dm [1-MAX_DMS] and NOT itself building system. (good for admins) (20/7/2011)
+- Fixed some spelling mistakes. (like abording sync in blip command messages, etc.) Raekwon probably forgot to modify. (20/7/2011)
+- Added deathmatches to /config command. (/dm) -> /config dm [on/off] (20/7/2011)
+- Fixed respawning at lobby in TDMs def 100% fixed this time & tested
+- Fixed refmode not working in TDMs
+- Fixed StartTDM resetting your score and messing up final results.
+- Fixed base info msg not showing up when you started a base/tdm
+- Fixed regmode 0 still forcing you to login.
+- Added a check to ApplyVehicleStuff so it won't even put the component on the vehicle if its an invalid vehicle, instead of waiting for OnVehicleMod
+- Fixed bug with setteam unfreezing AFK players
+- Fixed bug where turning off lobby weapons would get rid players weapons in dms and duels
+- Fixed bug with dm death messages and some other dm fixes
+- Possible fix for bug with /rem not working for players in respawn tdm
+- Fixed bug with spectate confirmation msg not being sent
+- Fixed a bug with /money
+- Fixed a bug in /credits where a line wouldn't show
+- More attempted fixes to respawn TDMs not adding you after death
+- Fixed problem in FixGaps() where it wouldn't free up a valid TDM/base/dm/tele/duel slot when deleting 2 or more sequential TDM/bases/teles/dms/duels.
+- Fixed /hud working if /config hud was disabled.
+- Fixed BeyondDiscon_Clear stopping after only clearing 1 player.
+- Fixed problems with Deathlist.
+- Added /config forcetime - force a certian time in rounds, ignoring the time set during base creation
+- Added Velocity saving to /sync to prevent players from using /sync to not lose HP.
+- Fixed /t create only allowed 1 word names
+- Fixed /getgun exploit while on a vehicle to allow driveby.
+- Fixed /config blip not saving in mysql.
+- Major improvements to teleport and dm creating systems
+- cmd:reload now does FixGaps()
+- Updated colors of dms
+- Added admin usage message to /dm
+- Fixed a MySQL error if you had an apostrophe in your hostname.
+- Fixed MySQL accounts not saving
+- Fixed spectate not working at all (2nd time)
+- Moved spectating you code to Start/StopSpectate instead of MainFunctions for efficiency and bug fix
+- Fixed bug with reshowing death messages
+- Fixed issues with deathmatches
+- Fixed anti-heli kill
+- Optimized OnPlayerUpdate and MainFunctions()
+- Added OnPlayerLeaveDM(playerid, dmid) to make sure dm gang zone is always hidden
+- Added protection against "Exception 0xC0000005 at 0x7F120E" crashes, the cause of most client crashes
+- Added confirmation message to cmd:blip
+- Fixed bug with team damage displaying wrong dmg amount in the +
+- Disabled driveby
+- Fixed bug with disconnect/connect messages
+- Added config command to turn off /blip
+- Added /blip to commands
+- Fixed auto readd
+- Fixed bug where attacker map marker wasnt being deleted
+- Changed DM's so player setToPlay is false
+- Possible fix for Spectating You showing list of players that are not really specing you
+- Fixed bugs in MySQL queries
+- Fixed speedmeter mp/h, km/h mismatching - it will now show depending on the DRIVERS country.
+- Fixed SaveMatchINI always saving as -1.ini
+- Fixed some 3D text's getting deleted when they wern't suppose to.
+- Fixed MySQL compiling
+- Fixed an issue with referees and spec only mode
+- Improved score resetting at end of final results
+- Added BeyondDiscon_Clear() to cmd:resetscores
+- Added BETA version define
+- Changed round clock to white
+- /config wlimit now updates the /wlist textdraws
+- /givemenu will now -1 the weapon limit of their previous weapons
+- possible fix for it putting you in lobby instead of respawning you in the TDM in Warzone or rumble
+- Made scoreboard GUI work in TDMs
+- Made it so the damage label will only show up if diag is enabled
+- Fixed not getting the gunmenu when joining the server late during a respawn TDM
+- Fixed exiting the gunmenu and auto-readd unfreezing you and letting you move when the round was paused.
+- Found exact cause of round over server crash and implemented possible fix
+- Fixed bug where new shortcut commands return Unknown Command (/v)
+- Possible fix for server crash issue when ending round
+- EndRound debug system removed, determined EndRound() function does not cause server crash
+- Fixed timeout message
+- OnBaseLoadFinish() Now sets players interior to base interior to fix any possible issues
+- Readded /v /s
+- Fixed bug with DestroyEmptyVehicles()
+- Made it so /car wont let players exceed MaxVehicles number
+- Added a rest to the AFK boolean in OnPlayerConnect just in case
+- Changed PlayerName() to PlayerRootNames[] in StorePlayerVariables to fix an autoreadd bug
+- Fixed a bug with tdm's/world boundaries, boundsSet - set to false in OnPlayerConnect
+- Made Player[playerid][Specing] false in MainFunctions if GetPlayerState is not spectate
+- Fixed bug where StorePlayerVariables was returning 0 stopping \ halfway through
+- Made it so you can change your nickname back to original and it changes ChangedNick bool back to false
+- Fixed spec off
+- Fixed more issues with new zcmd stuff
+- Fixed bugs with loading DM data
+- Changed all !strlen() to isnull to fix a lot of bugs
+- Now hides players FPS when that player is spectating another player
+- Spectate is fixed
+- Changed a lot of vehicle things to /car since the other car commands are no longer used
+- Fixed bug where you couldnt disable GEOIP
+- Fixed bug with SaveMatchINI not saving round data
+- Fixed bug with DisplayMatchInfo not displaying rounds
+- Changed color of timer clock to light blue
+- Fixed bug where EndRound was stopping and breaking if theres no top shooter
+- Added temporary EndRound debug system, saves debug info to txt file each time function is called
+
+*8.2.4
+- Added a blip system. This can be used to identify each team player during a round. (op) (/blip)
+- Death/kill list is now cleared after rounds and final results
+- Updated credits command
+- Fixed bug where auto weapons was listing weapon limit data
+- Final Results now doesnt include players in class selection in the results teams list
+- /config roundlimit usage warning now tells them what what MAX_ROUND_LIMIT is set as
+- Gamemode lists details for every round played in a match in Final results now
+- Fixed BeyondDiscon scrambled character issue for the last time (tested and 100% working)
+- Reduced final results cinematics to 7 seconds (was 10)
+- Created solution for teamname length in Final Results
+- Changed scoreboard to deal with team name length issues
+- Replaced all (isnull) with isnull to adapt with zcmd
+- Removed the lights from csel, caused issues
+
+*8.2.3
+- Fixed a SA-MP bug with csel showing on deathspot by setting csel to a custom vworld
+	^ also made the lights a player object instead of global
+- Added 0.3c colors to a lot of the gamemode
+- Added DISABLE_JOYPAD, kicks players for using joypad control when enabled
+- Fixed bug with kills in final results being wrong
+- Gamemode now does ClearMatchRoundInfo() after final results are displayed
+- Final results now hides the textdraws that are not relevant to the final results screen
+- Switched gamemode to zcmd command processor by ZeeX
+	^ Include now required: http://forum.sa-mp.com/showthread.php?t=91354
+- wlist now shows weapon ammo and limit data... Ex: Combat Shotgun (x90) (2)
+- Finished match system where it shows match results when you click on a match in /matches
+
+*8.2.2
+- Fixed bug where speedmeter was getting vehicle speed from velocity from anyone viewing the vehicle hud
+	^ Now only gets speed info from driver
+- Added shamal to aircraft menu by default because [ABK]Razz and myself felt like flying shamals :)
+- Shows vehicle hud to players surfing on a vehicle
+- Fixed bug with /goto not placing players in tp vehicle
+	^ made so if youre passenger in a car and tele to another player it puts you in their car
+- Replaced /skip for skip intro with fire key to skip
+- Changed /spec so you can spectate anyone on any team when no round being played
+- Now hides vehicle hud when entering mod shop and reshows it to player when they exit
+- Gamemode now shows vehicle hud to players surfing on a vehicle
+- Added callback: OnPlayerSurfingVehChange(playerid, oldvehid, newvehid);
+- Added player command /money [on|off] allows players to have money, lobby only (Enables stunt bonuses also)
+- Gamemode now detects and kicks people who use joypad controls (Code by WhiteTiger)
+- Changed font of tickrate and ping td so its easier to read
+
+*8.2.1
+- Added flash lights to class selection
+- Added 3b labels to attach to players when they take damage
+- Added FPS to player diagnostics 3d label
+- Possible bug fix for issue with anti-heli kill and having only one player left on team
+- Made StartBase and StartTDM public functions, so they can be called from external scripts
+- Fixed a bug with SaveMatchINI() not working
+- Fixed bug with Final Results not working
+- Scrolling in spectate mode now allows you to go through one player per second to avoid malicous use
+- Changed the round clock color to a light blue
+- Changed SpawnPlayer() to SpawnPlayerEx(), it now removes players from vehicle before spawning
+- Added MarkerStealth() to SyncPlayer and OnPlayerStreamIn
+- Fixed bug where /config duels IRC was saying wrong message
+- GM now saves detailed match info to to an ini file, when writing results is enabled
+- Added system to save round info for every round in matches (MatchRoundInfo)
+
+*8.2.0
+- Console now says how many duels, teleports and dms were loaded at gamemode initiation
+- Raped Al_Pacino while he was sleeping :)
+- Fixed bug with duels where it would stay full after player leaves or disconnects
+- Added /config sync [on/off]
+- Replaced /config forcereg with /config regmode [0-2] (0: Disabled, 1: Normal, 2: Forced)
+- Got rid of file based geoip due to massive lag, back to using plugin which is most efficient geoip method
+	 |- GeoIP is now option on any data system, use #define GEOIP
+- Added /delete [duel/tp/dm] [id]
+- Added automatic ID correction for teleports, dms and duels
+- Changed teleports to use individual save files for each tp (INI Mode)
+- Changed deathmatches to use individual save files for each dm (INI Mode)
+- Changed duels to use individual save files for each duel (INI Mode)
+- Fixed bug where exiting the duel setup menu wouldnt unfreeze player
+
+*8.1.9
+- Fixed minor bug with scoreboard score
+- Added scoreboard GUI
+- Fixed bug where gm wasnt clearing and reshowing deathlist properly (was getting in way of round over textdraws)
+- Gamemode now saves kills/deaths/connection stats for each clan that plays
+- Added dc_ prefix to all sql tables for structural organization
+- Gamemode now saves country stats like kills, deaths and connections per country and every country
+- Player connects, disconnects and some other server errors are now saved to dc server log
+- Spedometer now uses GetVehicleVelocity and shows mph for USA
+- Replaced totto's geoip plugin with Abhinav's geoip builtin, Geo-IP now works in ini + sql and does not require plugin
+- Fixed bug where TDM rumble mode was using 25 as static points limit instead of set variable
+- Fixed bug where if autobalance is enabled then /switch would switch you to home and sub home where it should be ref and autoassign
+- Updated log system and added chat log feature
+- Possible fix for problems with BeyondDiscon system
+- Fixed critical bug with all sql queries, a problem that appeared out of nowhere
+- Fixed bug where /info wasnt showing gamemode version number correctly
+- Fixed major bug where a large enum value was causing gamemode to compile 4mb amx (Thanks to WhiteTiger)
+
+*8.1.8
+- Fixed bug where Final Results would interfere with class selection
+- Made it so "Capture the CP" 3d label is a player 3d label only visisble to attackers
+- Made it so first blood removes clan tag from players name
+- Fixed all scores bugs in final results (StartBase was resetting match info for kills/deaths)
+- Added death stats to final results for each player beside kills
+- Fixed an issue with hiding/reshowing deathlist
+- Fixed bugs with weapon limit
+- Moved some weapon limit code from OnPlayerConnect to OnGameModeInit where it should have been
+- Expanded the protected ip system to use 2 possible IP's instead of 1
+- Fixed bug where /resetscores wasnt resetting rounds played
+- Fixed bug with final results showing weird characters
+		
+*8.1.7
+- Changed tickrate in spec to FPS
+- Fixed bug with spec weapons hud displaying N/A all the time
+- Fixed bug where MainFunctions would hide widescreen td's which interferes with class selection
+- Did a code cleanup and removed 2000 lines of unused code
+- Removed lobby textdraws for a cleaner look (Base/TDM count now in lobby 3d text)
+- Got rid of dynamic changing team color system because it was actually causing virtually all random player crashes
+	 ^ Team colors are now configured in gamemode manually
+- Possibly fixed bugs in spectating (Needs more testing)
+		
+*8.1.6
+ - Made it so when you click back in gun menu it does -1 to weapon limit count of that weapon
+	^^  Possible fix for bug where players picking weapon then clicking back and it still counts towards limit
+- Fixed cutoff bug with /playing
+- Made it so gm does not clear idle vehicles while round is being played to avoid issue of server deleting round vehicles
+- Fixed bug where gm would delete lobby vehicles after round end
+- Removed a lot of the ' ' quotes around words which were part of the old language system
+- Made it so you can use /teams in rounds
+- Fixed bug where autoreadd system wasnt setting players skin
+- Fixed bug where you couldnt use /skin in the lobby while round being played
+- Slight change to hostname style
+- Fixed bug where tickrate above health bar always showing as 0
+
+*8.1.5
+- Depcrated the language system feature - was causing recursion error and uses huge loops
+- Decided not to use built-in GeoIP because it uses an external http web server connection
+- Final Results now shows players who are not still connected but did play in the match
+- Added system codenamed "BeyondDiscon" - stores players match info and score in an array so it can be displayed on final results
+- /Stats now shows fps, tickrate and ping for players and IP for admins
+- Added optional mandatory registration (/config forcereg [on|off])
+- Added team damage display
+- Added FPS in bottom left corner (Code by JernejL)
+- Raped pacino while he was sleeping
+- Had suggestion for gamemode to save nickname aliases for each IP and show it to admins on connect -> Moved to dc_services
+- Changed /checkteams to /teams and it now displays rounds played and current score for each team
+- Removed the RELOADING automated msg because sa-mp normally messes it up and most people switch weapons
+- Fixed minor bug where /config gameplay would say 1-2 when theres 3 options
+- Fixed bug with duels where the duel waiting (20sec) timer for duels wasnt being killed after a /exit
+- Made MainFunctions() hide spec textdraws for ppl not in spec mode
+- Possible bux fix for spec textdraws not clearing
+- Possible bug fix for primary menu sometimes not showing in /wlist
+- Fixed minor bug with /config laser saying its toggling the player diagnostics	
+
+*8.1.4
+- Fixed possible bug with /spec off spawning u in sky above SF by adding lobby teleport to StopSpectate
+- Fixed bug where everyone was stuck in lala land after a gmx
+- Fixed bug where OnGameModeExit wasnt being called because of loop, cant have loop in it
+- DM Scoreboard now shows for players spectating deathmatch players
+- Added ping and tickrate info to /playing
+- Added ping and tickrate info to spectate mode
+- Matrix4057 suggested telling players what weapons there teammates have chosen when round starts but didnt add it because theres already a player hud feature that can be turned on
+- Cleaned up DM scoreboard textdraws
+- Fixed bug where DM scoreboard was showing players who arent playing in the dm
+- Added new feature: weapons hud of person you are specing
+- Made it so when multiple people stand in the checkpoint it doesnt count down double as fast
+- Made it so if you teleport to someone it puts you in their car if a seat is available
+- Fixed bug where everything would count towards rounds played even a /end by making it so it only counts it as round played if its a good reason to end
+- Made it so auto spec ref mode leaves refs in lobby and notifies them they can spec with / spec to fix a bug
+- Fixed bug with quotes around players name in spectate mode
+- Fixed bug where /gethere would say "you location"
+- Fixed bug where /config weather and worldtime werent actually executing samp functions SetWeather and SetWorldTime
+- Fixed bug where if you type /car carname while car menu is shown the car menu would stay on screen
+	^ Solved by making the SpawnVehicleForPlayer function also hide the menu
+- Final Results and Round Over display now clears the death list, saves it and reshows when display is finished
+- Vehicle hud now hides players clan tags
+- Final Results and Round Over textdraws now hide players clan tags
+- Added function RemoveClanTagFromName(playerid)
+- Fixed bug where sometimes it would say Error: you already have that weapon when you dont
+- Added /playing command, lists all players playing a round and what team they are on in a dialog
+- Fixed bug with weapon limit still counting ppls weapons who were removed from round or deceased
+- Fixed bug where final results scoreboard wasnt resetting, it was actually a mixed up variable
+- Fixed bug where DM gangzone would show for players after they leave the dm
+- Fixed bug where map name would change to "Base: -1" after round ends
+- Seems like all zspawn and spawning bugs were fixed by SetPlayerPosFindZ removal < further testing?
+- Updated credits to include Al_Pacino, PTM Clan
+- Removed SetPlayerPosFindZ, replaced with SetPlayerPos
+	
+*8.1.3
+- fixed bug with /nick saying new name twice
+- fixed bug with players being able to use /me while global mute is in effect
+- Reloading system msg now doesnt display for weapons with small clips like shotgun and sawnoffs
+- also fixed coords issue with teleports and dm's
+- made sure the gm resets everyone gSpectateID constantly if there not in spectate mode
+- fixed major bug with coords
+		    
+*8.1.2
+- fixed bug where sometimes players who connect get "please wait until results are shown" when they try commands
+- added new TDM mode called "Rumble" it is first team to reach a set amount of points (kills)
+	^ /config gameplay 3 | /config tdmpoints [points]
+- added gm messages when teammates reload and throw grenades
+ - added round time to map name browser info
+- removed pause detection as it is prone to problems
+		    
+*8.1.1
+- made /resume unfreeze everyone twice in response to report that not everyone always gets unfrozen
+- fixed bug with /nick where it would show new nickname in return message where old name should be
+- report: in tdm, round didnt stop after all of away team did /q
+	|- response: /playing command shows all playing players (will tell you why the round hasnt ended)
+- Fixed bug where votetime would always be 20
+- Possible fix for bug abusing to leave world boundaries
+		
+*8.1.0
+- Put teamcolor in config command list (forgot it)
+- Fixed sa-mp bug where players can exit world bounds by bug abusing
+ - Fixed playerid mixup in /setplayer
+- Possible fix for duel timeouts (duel is full msg)
+- Added Seif's Body Part Detection functions (not used yet)
+- Fixed typos in antisktime config command
+- Fixed bug with dm's not working on sql mode
+
+*8.0.3
+ Fixed bug where hitting space to finish weapon selection would stop camera rotation.
+- Fixed bug where /serverinfo would still say [KR] Killadel Rydaz
+- Changed version scheme to revision # instead of letter
+- SetPlayerPosFindZ now adds 2 to each initial z position (possible fix to spawning far/under map)
+- Changed some SetPlayerPosFindZ back to SetPlayerPos as FindZ wasnt needed
+- Fixed bug with /config roundtimer having on and off confused
+- added OnPlayerWepStateChange(playerid, oldstate, newstate) callback
+- Changed all SetPlayerPos to SetPlayerPosFindZ so players will never spawn below map
+
+*8.0b3
+- Fixed bug where antisktime would be set as milliseconds but treated like seconds
+- Fixed bug with afk 3d label not being deleted after player disconnects
+- Fixed bug with health variable being used instead of armour
+- Fixed bug with armour variable being used instead of health
+
+*8.0b2
+- Fixed server crash issue with starting rounds
+
+*8.0b
+- Fixed issue with /dm not working on sql mode
+- Fixed ratio in /stats (new GetRatio(a, b) function)
+- Moved health and armor objects higher above players heads
+- Fixed refmode = 2 autospec
+- Fixed bug where could see team chat while in intro/cawl
+- players now have damage spawn protection for 5 seconds at all times.
+- made it so gm hides players menus when tdm or base starts
+
+
+*8.0a
+- investigated issue reported by [Ask] where server would crash if you do /end in tdm but couldnt duplicate problem
+- server crash problems when starting off with no bases/tdms found to be MySQL plugin problem
+	|- stems from the script trying to fetch rows from an empty table
+	|- G-sTyLeZzZ said it will be fixed in next plugin version
+- added MySQL support to saving fighting style, dm system, languages, /config classicchat
+- Code cleanup, many new documentation comment lines
+
+
+*7.7m
+- Improved csel layout.
+- Improved weapon limits system and fixed few bugs on it.
+- Made it so /fight could only be used when not in a round.
+- Fixed more final results bugs.
+- Improved diagnostics and made it so they appear on above players name, LOS off, same color as the player.
+- Started damage detection system.
+- Started DM system.
+- Minor improvements all over the code.
+- Finish multi language system.
+- Made it so autoinvert won't work in case admin ended round
+- Added classic chat option (! for team no mater what), configurable via /config classicchat [on/off]
+	^ After requested for many BR clans using our script.
+
+
+*7.7l
+- Replaced all '< Server[HighestID]+1' to '<=Server[HighestID]', smarter and faster.
+- Duels won, duels lost and ratio now show on /stats
+- Improved /resetacc. Now it actually resets all file data no matter what (.ini system)
+- Reimplemented /config teamcolor, admins can now set the hex code straight from the command. Ex: '/config teamcolor 1 0xFF800000'
+	^IMPORTANT: Color alpha MUST be '00'
+- Removed old skin system which enabled players to change skin with '/teamskin x -1'. Now uses '/config skin'
+- Added command '/resetbaseinfo [id/"all"]' to reset bases data like Tiems played, attackers won, etc.
+- Players fighting styles are now saved to his account file (.ini only - need latest .sql to make it sql aswell)
+- Improved end round textdraws (some of them were overlaped)
+- Fixed firstblood string bug
+- Made it so players' markers will only be visblied when taking damage if UAV is on.
+- Minor updates over the code.
+- Changed all 'client side' strings size to 128, using 200 or any higher is just dumb and waste of memory.
+- Added whole new multi language system based on language files. For more info read "combinations/languages/readme.txt"
+	^IMPOTANT: All strings formated should come as '%s' or '%d', a ' must always come before and after the arguments as they'll work as identifiers for the lang conversion.
+- Fixed endround bug. Where inverting teams before showing results so they ended up messed
+- Improved Capture system, cp time will go down according to the number of players that are there. If def goes in CP it will stop capture imediatly
+
+
+*7.7k
+- Added detailed scoreboard for when round ends, a full player list like Final Results
+- Made it so final results can rotate multiple lists of players supporting up to 100 players results per team
+- Gamemode supports a maximum of 100 players to avoid issues with results/stats textdraws
+- Fixed gap in final results textdraws
+- Updated tickrate display above health bar, also added Ping
+- GM now displays each players ping and tickrate on them with 3d label (/config diag [on|off])
+
+
+*7.7j
+- Added first blood textdraw, says First Blood when person gets first kill in a round
+	^ also displays their name
+- If a defender steps in cp timer gets reset
+- Fixed bug where 2 attackers in cp would speed up timer
+- Fixed a bug where a players team wasnt being set after a timeout re-add
+- added who is Specing You feature, shows you who is specing you in a textdraw
+- Added auto invert feature, /config autoinvert [on|off]
+- Fixed bug with refmode config cmd not implemented properly
+- Fixed empty weapon menus showing with new TryGunMenu function
+- Made it so you can do /config cpsize 0 to disable base checkpoints
+	^ also hides the "Capture The Checkpoint" 3d label
+
+
+*7.7i
+- Changed brought to you by message to hosted by and changed color
+- gamemode tels you server rates under OnPlayerConnect
+- fixed bug with config command to disable autohud always enabling it
+- expanded weapon system to have walking weapon and running weapon options (/config weaponsystem)
+	^ Based on the suggestion where someone wanted to be able to switch tdms to running weapons
+- refmode implemented into both bases and tdms
+- added plimit functionality to tdms
+- added new system for cleaning up bases by tdms by replacing gaps in the count automatically
+	
+		
+*7.7h
+- added a config option to make it so referees only spec and do not spawn in round
+	^ /config refmode [1/2] || 1: Spec only - 2: Spawnable
+- Your radar blip now flashes in rounds when you take damage
+- plimit actually does something now
+- Made it so you can only select Auto-Assign or Ref with /switch while autobalance is on
+- Balance teams auto (in csel keeps teams even players will only be able to choose auto assign and referee)'
+	^ This works by making Auto-Assign and Referee the only options in class selection
+- Added /config clantag [tag] so admins can change the servers clan tag without manually editing config
+- Gamemode now ensures players in base CP are not paused
+- Camera and Nightvision goggles removed from /getgun because they can no longer be desynced in 0.3
+	^ Thanks to Kye :)
+
+
+*7.7g
+- Possible fix for vehicles clearing during round by making it check twice that it is empty at 2 different times
+- Honking to change color/wheels is now for ppl not playing in round only
+- Fixed gm not calling DC_MakeAdmin when an admin logs in or player becomes admin
+- Moved gm back into one .pwn file so its easier to work with Devas
+- Gamemode now shows how many textdraws it has created in serverlog/console under gamem mode initiation
+- Slots is now unlimited you can run D/C at 500 slots just beware of textdraw limit it will exceed 2048
+- Added FPS feature, shows each player there tickrate (close to FPS) in a textdraw (Thanks to Sneaky)
+- Renamed expansion remote function "IRCForceSay" to "DC_IRCForceSay"
+- Added new expansion remote function calls "DC_PlayerEnteredRound" and "DC_PlayerLeftRound"
+
+
+*7.7f
+- sql sessions are cleared at game mode startup - fixes issue with sessions not being removed
+- Gamemode now saves country to sql db when in sql mode
+- Can no longer use /jetpack UNLESS you are not playing in a round or you are a root admin
+- Fixed bug where map name td would dissappear after a player does /intro
+- Fixed bug with /makeadmin where you couldnt set players back to "Regular Player"
+- Class Selection will show for players after their first death due to sa-mp bug (bug reported to kye)
+				
+
+*7.7e
+- Intro cinematics now have multiple locations
+- Removed the BR lang thing, no longer supported and a better language system could be made
+- Gamemode now no longer needs dini or dutils when in SQL mode
+	^ the only folder it needs in scriptfiles is "/scriptfiles/combinations/matches/"
+- Added /config plimit [limit] - it sets the minimum amount of players needed to start a round
+- Added custom /pm command since it was removed in 0.3
+- Team colors are now hex in main_config, instead of predefined, and should be manually configured
+- /me, /nick, /login, /register commands use dialog boxes if no params provided (0.3)
+- When you click a player name on list it shows their D/C stats (0.3)
+- Added /fight for the new fighting styles (0.3)
+
+
+*7.7d
+- Some of the /config commands can be used by regular admins now
+- Didnt script suggestion to have it so if you bring in sub, person who crash doesnt get autoreadded
+    ^ because you can just disable autoreadd then /add subs as you wish
+- Fixed bug with 0.3 where players do /car and dont get put in vehicle b/c of vehicle streaming in
+- Fixed bug where FixPlayerTeams wasnt checking if tk protection is turned off
+- /nick now lets you have a name up to 20 chars long and supports new name chars ( ) . (0.3)
+- Fixed bug with TDM's where ppl get white flashing Loading... screen immediatly after start
+    ^ problem was spawnteamincircle function, using old method as fix
+- Gamemode supports a maximum of 200 slots, due to textdraw limit of 2048 (0.3)
+	^ OnGameModeInit now checks and makes sure the slots isnt too high
+
+
+*7.7c
+- New autologin by IP feature, /config autologin [on|off]
+- Gamemode now saves a players last known IP when they register/login
+- Fixed 0.3 bug where "<< >> Spawn" class selection GUI would show in intro
+- Added /config skin [on|off] - disables or enables the /skin command
+- Added "Capture The Checkpoint" 3d label above base checkpoints
+- Fixed weapon limit bug where players who disconnect or get removed from round still use up space on wep limit
+- Fixed bug where health would appear as armor sometimes in spectate textdraws
+- lobby 3d text is now globalized so if you move lobby that info text also moves
+- Gamemode now displays players country name in connect msg if in SQL mode
+
+
+*7.7b
+- Added /shuffle for admins, randomizes and balances the teams
+- Fixed bug with player quitting while someone is specing them
+- You can now spec people even if they are not on your team if they are in a duel
+- minor cosmetic updates for 0.3 compatibility (main class selection textdraws)
+- /config lobbyweapons on now gives everyone in lobby there getgun weapons
+- /config teamskin and /config teamcolor can only be used when round not being played and now update players instantly
+- You can now set player skill level on every weapon with /config wskill (0.3)
+- When you spawn a car it now has a 3d label attached for 7 seconds showing car name (0.3)
+
+
+*7.7a
+- /afk now attaches a 3d label to players using /afk (I am currently AFK.) (0.3)
+- /me now uses chat bubbles (0.3)
+- Lobby now has 3d text labels at spawn point with info (0.3)
+- Players now get random weapon in class selection
+- Bug reported that sometimes you can kill your own teammates so gamemode now runs a FixPlayersTeams function 3 seconds
+  after round start to make sure everyone is set to the proper team
+- Recoded weapon limit system
+- Fixed bug where teamlock wasnt working
+- Fixed bug where when the server is locked if you kick or a player quits before auto kick serv still tries to auto kick them
+- Gamemode Release
+	
+			
+*7.6e
+- Made it so you need atleast 2 players to do /showresults cause it can crash server with less than 2
+- Fixed bug where if you do /nick to a registered name it doesnt give you saved getgun weapons
+- /info now says how many sql queries executed if in SQL mode
+- /about command changed to /info
+- Fixed bug where turning lobbyweapons off did not remove players gun who are currently in the lobby
+- Fixed bug where /removegun showing syntax for /getgun
+- Added feature to set limits on how many of a certain wep a team can have /config wlimit GunID limit
+	
+			
+*7.6d
+- Fixed bug where weapon menu would show if no weapons on it
+- Fixed bug where people in duel added to rounds
+- Fixed bug where sub players name would lose the SUB_ after round ends
+- Fixed bug where /getgun Camera gives you sniper rifle
+- /skin is now disabled during rounds.
+- Fixed bug with DestroyEmptyVehicles() not destroying empty vehicles
+- Armor pickups and health pickups appear on a players head when they take damage
+- Fixed bug where eapons menus show for players in gun selection even if theres no guns on it. < needs testing
+
+
+*7.6c
+- creating bases & tdms no longer uses auto_increment for id in sql database
+- Fixed bug where when a base is inside interior it still gives you vehicle menu
+- Creating new game sessions moved to OnPlayerConnect for efficiency
+- Fixed bug wheres session kills were not being recorded
+- Fixed bug where session wasnt being logged in they register and get automatically logged in
+- Fixed bug where invalid column hostname being used in game_sessions
+- Fixed bug where Player joined server messages not showing to certain ppl properly
+
+
+*7.6b
+- Minor cosmetic updates
+- Weapon kill data for the server is now stored in a seperate tabled called "wepkill_data" instead of "serverdata"
+	|- This is to make the php web stats easier to make... selecting weapon kills in order from highest to lowest.
+- The gamemode now uses sessions in sql mode, a list of connected players with info in new table "game_sessions"
+- GeoIP Plugin by Totto8492 now a requirement in MySQL mode so the sql db can track players country.
+	|- Useful for stats site can show country... only needed if in sql mode
+- Added new sql functions to keep track of players playing in database
+	|- LoginGameSession, AddNewGameSession, DeleteGameSession, DeleteAllSessions,
+	|- SetTeamGameSession, SetKillsGameSession, SetDeathsGameSession
+- Fixed bug where getting "clan_tag" in LoadConfig / SQL Mode would produce error/not work
+- Gamemode Released
+
+
+*7.6a
+- Added a configurable death message shown on players screens when they die (/config deathmsg <msg>)
+- Added rage quit detection
+- Removed /hints as the gm uses td hints with special chars/colors, etc
+- Hint Messages are now shown in textdraw (top right)
+- Fixed bug and cleaned up rules textdraw
+- Altered game mode initiation messages to be linux friendly (not using chars that only show in windows console)
+- Major improvements over the code.
+- Added weapons deaths tracking aswell as kills.
+- Added code to track players' duels won/lost, aswell as sql tracking to php stats.
+- Lots bugs fixed in final results textdraws.
+
+
+*7.5i
+- Improved some message strings.
+- Organized bases/tdms/duels buildmode messages (new color and formated strings)
+- Fixed Duel bugs in MySQL system
+- Organized /cmd and /admin strings.
+- Fixed player getgun saving bug in MySQL mode (table was set to "player_getgun" instead "players_getgun")
+- Fixed bug where /a gotodef wasn't working in mysql mode.
+- Added /exit command for players to exit duels
+- Added restrictions to commands while players are in duel (They could use stuff like /spec when in a duel, causing bugs)
+- Improved spec system.
+- Several MySQL fixes and improvements.
+- Made it so weapon config is also saved in mysql database for it to be used in php stats webpage.
+- Multi-language support added.
+- Fixed duel creation system in mysql mode
+- Added /config rules for dynamic rules.
+
+
+*7.5h
+- Added small code to avoid fake kills using /kill.
+- Fixed request class flickering !!!!!! < I'M PRO
+- Looked over all code, improved/changed some stuff.
+- Cosmetic updates.
+- Implement SpawnTeamInCircle function, to spawn teams in a circle in the round.
+- Improved UAV system.
+
+
+*7.5g
+- Moved /weapons and /ammo commands to /config
+- Moved all weapon system to a enum (really disorganized using all those variables)
+- Recoded system that checks if the player already has a weapon on the slot of the weapon he just pick.
+- Looked over all code, improved/changed minor stuff.
+- Added /sync restrictions to prevent bugs and exploiteds.
+- Moved some important stock functions to public, so they can be called in remote admin filterscripts in case its needed.
+- Renamed some functions names for more properly names.
+- New selection class coord added (sant maria pier)
+- Improved auto weapons td code.
+- Made a few variations of health td (check createtextdraws()). Still have the old ones commented, If you didn't liked feel free to move back to how it was.
+- Activated /config intro. < Was only setting the variable. Even when I did /config intro off, intro would still play.
+- Fixed a couple Final Results bugs.
+- Added intro to /about.
+- Few cosmetic changes in vehicle hud.
+
+
+*7.5f
+- Removed flash text that was KR only, to improve performance
+- Stretched out auto weps td to accomodate 5 weapons
+- Fixed bug where players name would be set as SUB_ in class selection
+- Fixed bug with no weapons in duels under SQL mode
+- Added completly dynamic weapon system.
+- Recoded explosives on-off system, /weapons /wlist and /ammo.
+- Removed /resetmenus command.
+
+
+*7.5e
+- Fixed duels in SQL mode
+- Added Auto Weapons feature
+- Added special textdraw for KR clan in top right corner of screen, only shows if ClanTag == KR
+- Possible fix for crashes under OnPlayerSpawn for high ping players
+- Changed - to a + beside money (health) with textdraw
+
+
+*7.5d
+- made it so players that did /nick cannot use /register (Can only register nicks ppl connected with. To avoid exploited and bugs)
+- made is so round starting camera rotates automatically unless they use a hotkey to move, then it stops where it is and uses keys
+	^ NEEDS TESTING
+- Changed back fullset to walking weapons
+- Fixed a small bug in spec system
+- Fixed bug where ppl could crash while in /intro
+- Recoded all droping/pickiping weapon system. Works properly now.
+- Improved something in spec system (need testing)
+- Fixed Final Results textdraws/cameras.
+- Fixed HUD bugs, and other general TD's overlapping/bugs.
+- Finished all #define IRC system (some messages from /config weren't converted yet)
+- Organized all /config command, not using all those hundreds of strings for each command anymore.
+- Made a simple log system (WriteLog), can be enabled/disabled on #define LOG_SYSTEM
+- Added /date command
+
+*7.5c
+- Added /config intro [on/off] to disable/enable intro
+- Added /intro to view intro again
+- Added /skip for intro
+- Added /config lobbytd [on/off] to turn on or off the lobby textdraws
+- Fixed up vehicle hud so it doesnt fuck up when health is low
+- Fixed class selection
+- Fixed issue where it was using same csel location every time
+- Fixed bug where teleport names were not being loaded (sql)
+- Fixed bugs with registering and logging in
+- Fixed bug with HighestID under OnPlayerConnect
+- Fixed bugs where SQL was using about instead of name
+- Fixed bug with load TDMs function where it looking for field "about" instead of name
+
+*7.5b
+- Fixed bug with intro message and not showing k letter
+- Stopped hiding and showing widescreen black bars constantly in RequestClass
+- Fixed bug with creating bases and tdms saying you are working on wrong id
+- Fixed weapon names not showing (not using wnames.ini anymore)
+- Fixed vehicle hud name
+- Fixed bug where base' x coord being loaded as y and z
+- Fixed bug where /nick always returns nick registered
+- Fixed bug where /startbase -1 wasnt working in sql mode
+- Fixed bug where base name coulnt be changed in sql
+- Fixed a few bugs when DATA_SYSTEM is set to 1 (They were already fixed when data_system == 2)
+- Fixed other gm bugs (not related to data_system)
+- While a round is being loaded, players can control their cameras using 'SPRINT', 'JUMP', 'CROUCH' and 'ENTER'
+- Cosmectics updates
+- Minor commands messages/errors improved/fixed.
+
+*7.5a
+- Added whole new mysql data system which can be used instead of dini by configuration.
+
+*7.4c
+- Implemented dynamic spec base system. You can now spec the base and control the camera (zoom in/out, rotate)
+- Fixed loading round camera.
+
+*7.4b
+- Added command /intro for test purposes, remove later.
+- Added dynamic intro message system (/config introstring and introsubstring) System is completly dynamic and configurable and don't use hundreds of else ifs.
+- Added method to skip intro (left click) and textdraw telling player how
+- DynamicCamera/CamUpdate has been replaced with more efficient code
+- Added more class selection locations
+- Fixed Camera flicking
+- Fixed/improved /switch command ("SetPlayerTeamEx")
+- Fixed bug with auto-readd system here players were always been readded in home team
+
+*7.4a
+- Updated car spawning commands so players can define car name instead of having to use menu
+- Added pro intro cinematics
+- Fixed the /config teamskin not actually changing skin, just writing to ini config
+- GTA-U features have been deprecated due to its unpopularity
+	|- GTA-U features already in the gamemode will be left intact, future development for gtau halted
+
+*7.2c
+- Major code improvements.
+- Addded new -NickServ- commands like /group, /changess
+- Completly fixed vehicle hud system (I had to do it or no one would, like always)
+- Added /config vehiclemsg command to change msgs displayed on vehicle hud when veh is about to explode
+- Fixed some /baseinfo bugs.
+- Minor bug fixes.
+
+*7.2b
+- Fixed all virtual world bugs, use SetPlayerVirtualWorld2 and SetVehicleVirtualWorld2 now
+- Minor imrprovements over the code
+- Added hits/damage textdraw
+- Fixed all /spec system, cycling trought players, etc
+- Fixed bug where couldn't mod vehicles with HORN key
+- Fixed bugs where player stats weren't reseted when they connected so they had the stats from the other player with that id.
+- Added /config hud, completlty turns on/off HUD system.
+- Made some changes on how timers work during a round, using another system to kill them instead of KillTimer
+
+
+*7.2a
+- Made some edits under MarkerStealth.
+- Tried to fix bug where u couldn't cycle trough spec players using JUMP key (NEEDS TESTING)
+- Completly recoded /getgun weapon array. you can now add weapons with just 1 line.
+- vehicle hud now uses callbacks for a lot of stuff, making it faster and more efficient
+- vehicle hud textdraws are now created static instead of create/destroy dynamic
+
+
+*7.1j
+- Completly recoded all vehicle menu system, you can now add vehicles in the menu with just one line.
+- Improved MarkerStealth code (NEEDS TESTING)
+- Improved name setting code (will only change player name when his state actually change)
+- Fixed bug where if player disconnected druing a duel, the other player wouldn't be removed properly
+- Added /teamlock command
+- Server now does DestroyEmptyVehicles() on 40 second timer
+- got rid of a lot of the vehicle stuff in MainFunctions to OnPlayerStateChange callback
+- replaced MAX_VEHICLES in loops with Server[Vehicles]
+- Added new base variables: Attackers Wins, Defenders Wins, Times Played, Creation Date and Creator Name.
+- Added new command /baseinfo [baseid], displaying all information about the selected base.
+- Added new Auto Spec system, player spec their teammates when they die in a round (/config autospec [on-off])
+
+
+*7.1i
+- Temporaly remove auto-syncing player 1,5 secs after round starts to see if reduce crashes.
+- Fixed bug where subs cant move when round paused
+- Pause detection now waits 2 seconds to combat lag, and doesnt display when in round load screen
+- Redid highest id....   NEEDS TESTING
+- Fixed some /vcolor bugs, now works Properly
+- Added Live Map support. Everytime bases are loaded, all their info is echoed to a .txt file in scriptfiles folder.
+
+
+*7.1h
+- Completly recoded duel system, now work like teleport system.. Are saved in a file and can be configured ingame using /duel [setup/name/guns]
+- Minor Fixes over the code
+- Added /config duels [on-off] command, used to Activate/Deactive Duel system
+- Added /globalchat [on-off] Command to allow/disallow players to use global chat.. 
+	^ If global chat is disabled, any text the player sents is used as teamchat. Only admins will be able to use global chat when its disabled
+- Added /chat [id] command to allow / disallow a player to use open chat.
+- Moved some of the codes under OnGamemodeInit to functions/stocks to make coder more clean and easier to understand/edit.
+- Cosmetic Updates.
+- Improved Pause/Unpause messages. Were sometimes being given when player was not paused (lag related).
+- Added /config nick [on/off] and /config lobbyvehicles [on-off]
+- Improved /skin command, /teamskin [team id] -1 works properly now.
+- Added new command "/allvs [tag]" Divive teams using the tag given.
+	^ Example: "/allvs [KR]". Would search for all players with part of the nick "[KR]" and set them to Home team. All other players would be set to Away team.
+- Added /nochat command to completly disable any use of chat
+- Added /config autoreadd [on/off]. Enables/Disables auto-readding timedout players during a round.
+
+
+*7.1g
+- Fixed top shooter bug, counting kills of players that weren't playing
+- Added Base #~n~ for bases descriptions that are too long
+- Optmized Player & Vehicle HUD, now says "Full Set" if player has all weapons.
+- Edited Spec cycling code.. Still need to test.
+- HUD don't show for AFK ppl anymore.
+- Readded MainTextDrawLayout (next time u remove one of my codes without asking me i will wipe your lil pennis out)
+- Added Protection system
+- Fixed some bugs in UAV (NEED TESTING)
+- Fixed vehicle HUD bug.
+- Fixed Overlaying of /view gamemetext in the Bases / Tdms textdraw'
+
+
+*7.1f
+- vehicle hud textdraw op black bar got bugged for no reason
+- Removed Exists[] for bases and tdm's (not being used anymore)
+- vehicle health bar now sensitive to 24 health levels and says GTFO!!! when car on fire
+- Cosmetic update, moved lobby textdraws to bottom left beside radar
+- Camera added to getgun and Special Weapon Menu (desynced) for Jose
+- /makeadmin now tells the person setting it whether or not the cmd was successful
+- fixed bug where /givemenu crashes server when used while round not in progress by disabling it being used in lobby
+
+
+*7.1e
+- HUDUpdate only on timer during round
+- NameTagStealth and MarkerStealth are now only on timers while a round is taking place
+- fixed bug where subs were getting active color for 2 seconds after spawn
+- recoded whole admin system to use old levels and methods (all user accounts deleted for security reasons)
+- GameModeText is no longer set in MainFunctions timer, it is now done only once after EndRound
+- fixed alignment of "Auto-Assign" in RequestClass
+- fixed problems with spectating
+- fixed bug where you could /goto ppl in duels
+- fixed /spec someone while you are in vehicle vehicle hud does not dissappear
+- when you /spec someone it now hides your vehicle hud and shows theirs if your in vehicles
+- fixed bug where if someone leaves during round and they are closest to you, you still see their hud
+- fixed bug where refs see player hud in round
+
+
+*7.1d
+- Added /bases and /tdms commands
+- Completlty recoded getting base/tdm variables code, they are now all loaded ongamemodeinit, and files aren't accessed at all in the rest of gm.
+- Added BaseVariables and ArenaVariables enums holding ALL TDMs/Bases variables.
+- Fixed some /balance bugs and virutalworld mismatching.
+- Added /hints command to see list of all hints
+- New weapon selection options, changed by /config weaponsystem.
+- New "/weaponstats server" command, shows server weapon usage
+- Recoded StrapUp code
+- Fixed & improved Heli-Killing / Drive-bying / Car-Killing punishment system
+- Added Kill Spree messages when players have high kill Streaks
+- Fixed LOTS of EndRound bugs, virutal world mismatching and LOTS of ModeUpdate2() bugs..
+
+
+*7.1c
+- Added /bases command with textdraws showing all bases and their description
+- Edited some bases' description that were too big
+- Cosmetic updates
+
+
+*7.1b
+- Fixed few SetPlayerWorldBounds
+- TDM can now be set to Warzone (respawn in the round) or Stealth and Survive(you die, your out).
+- Attackers can now spawn as many vehicle as they want, as far they are withtin 150 ft from their base, check #define VEH_SPAWN_DISTANCE
+
+
+*7.1a
+- Improved Spec system and whole textdraw system.
+- Made whole code clearner and easier to work on.
+
+
+*7.0f
+- Added name support to all id commands (exanple: /goto [part of name | id])
+- Fixed few bugs on /removegun
+- Addded Auto-readd system for tmed out players
+- Fixed some few bugs on Saving match results to file code.
+- Completly recoded Spec system, no timers are used.
+- Added dynamic dead tag.. Can be set using /config deadtag
+- Changed vehicle hud layout so player weapons could fit
+- Added ClearVehicles() stock code.. Being used everytime a base/tdm starts or a round ends.
+
+
+*7.0e
+- Recoded /nick code. If u choose a registered nickname, u'll have to enter the password too
+- Improved UAV system (need testing)
+- Minor improvements over the code
+- Moved /roundlimit and /saveresults to /config, are now permanently saved on main_config.
+
+
+*7.0d
+- Replace all [1-0] to [on-off] on commands params.
+- Recoded/fixed HUD system.
+- Added /config globalarmour, globalhealth, autohud, vehiclemods, pausemessages subcommands
+- Removed WeaponsDataFile, now weapons data will be stored in ServerDataFile aswell.
+- Replaced /bring to /add command.. Add makes more sense and bring is used in some admin scripts too so might cause bugs
+- Improved Vehicle HUD layout
+- Added /about command, now displays ALL server info (UAV On/Off, Explosives On/Off etc)
+- Readded weapon drop system.. Can be set using /config weapondrop
+- Recoded admin level system.. Working correctly now.
+- FIXED FLASHING MARKER FOR ATTACKERS.. HAHA I ROCK
+- Fixed some /config subommands bugs
+- Added clan chat, base on the Clan_tag of main_config
+- Added /removegun command
+- Added /vcolor command, saves the choosen player color on his account file and automatticly sets his car's colors it.
+- Added command to change baseupdate textdraw (HUD and Bottom)
+- added player weapon in Vehicle HUD
+
+
+*7.0c
+- Added /stopvote command to stop any voting in progress
+- Completly recoded duel command, everything is now tracked into arrays, so its extremely easy to edit/add new duels
+- Minor changes over the code
+- Started the Auto Balance system, created a stock (see end of file)
+- Added a /config hintmessages [0 - 1] to enable/disable hint messages
+- Replaced all old "rumble", "warzone", "stealth" variables used on commands
+- Fixed lots of strings that had "Home" or "Away" instead of HomeName and AwayName
+- Added SetPlayerTeamEx. Used on switch menu and /setteam
+- Added auto-assign class, sets the player team to the one with less members.. In case both have the same number of members, home is the default.
+- Added /setteam 5 (auto-balance)
+- Fixed bug where /skin was disabled even with /teamskin weren't set
+- Added /goto and /gethere command.. /goto is avaible for normal members in Lobby
+- /getgun weapons are now saved to player file on combinations/players/
+- Added /deleteacc command to delete player accounts
+- Added /weaponstats command so player can track all their weapons usage
+- New dynamic Selection Class screen system. Some of the selection screens i did suck.. You can edit it, search for RequestClassCoords
+- Added /balance command
+
+
+*7.0b
+- Moved all permanent commands (which vars were saved on main_config.ini) to /config
+	NOTE: /settime sets the current world time.. /config worldtime sets the default world time (will be stored on the config file). Same with /setweather and /config weather
+- Minor chnanges over the code
+- Fixed some of the bugs
+- OnPlayerConnect message shows player ip to admins
+- Temporary commented Help message telling attackers and defenders to vote
+
+
+*7.0a
+- Temporary moved everything to the .pwn as its much easier to work on... Everything is still organized into AdminCommands, Commands, Functions, etc... So its easy to edit gm.
+- Fixed bottom black bar of round hud
+- Added /t.eleport command.. Coords/names can be set ingame.
+- Added new hint messages
+- Fixed CJ Skin bugs
+- Made it so kill box clears when round starts
+- Fixed final results showing when player vote
+- Made it so round starting checks that the player isnt PLAYER_STATUS_DEA
+- player hud now activated by defualt and in auto mode
+- Added /hud system
+
+
+*6.9b
+- new td for RequestClass shows away/home stats/role
+- td voting fixed to not use green/blue to represent team colors
+- hint messages are now shown when players spawn who are not in round so special hint messages for round gameplay can be shown to players
+- names tags dont show when in car
+- removed all SERVER: Unknown Command from admin commands, replaced with proper error message
+- teamskins now unset when no one on server
+- real skin for each class (team) is set in main_config
+- Teamskin can now only bet set for home and away since they are only real playing teams
+- Teamskin is not set in config, temporary
+- Added more irc messages
+
+
+* Version 6.9a
+- Complete reoptimization/code cleanup
+
+
+* Version 6.8g
+- optimized some things
+- fixed bug with vehicle virtual worlds
+- changed sync when round starts to 1500ms
+- added vehicle info td
+- Started to code the /hud system
+- Fixed Checkpoint bug where it was going to negative numbers
+- Fixed HP left bug, was going to 0 sometimes
+- Added HP Left on duels
+
+
+* Version 6.8f
+- Added /teamcolor command
+- Updated all textdraws to use configured team colors
+- Fixed bug where when player killed himself death message wasn't being shown
+- Minor fixes over the code
+- Made player color white when he in cp
+- Implemented the code to save number of times player captured cp in his account file.
+
+
+* Version 6.8e
+- /teamname and /teamskin nows saves to main_config file
+- Added /search command so players can get for bases/tdms ids using keywords
+- Minor fixes over the code
+- Added Base/TDM "about" while viewing it
+
+
+* Version 6.8d
+- /nick readded with character limit
+- team colors can now be manually configured in main_config
+
+
+* Version 6.8c
+- Removed arenas
+- Removed weapon dropping
+- Added SpawnVehicleForPlayer(playerid, vehicleid);
+- sync now only lets them do it once every 3 seconds
+- infinite ammo bug fixed in /sync
+
+
+* Version 6.8b
+- now detects when ppl pause in rounds - OnPlayerPause, OnPlayerUnpause
+- all settings set by admin ingame are saved to config file
+- lobby textdraws optimized not not repeatedly hide/show, prevents flashing
+- Minor cosmetic updates
+- Optimization of all textdraws, less hiding/showing, prevent flashing
+- code cleanup
+
+
+* Version 6.8a 23/11
+FIXED* - if person dies or does /sync whoever specing them gets ocean view, spectating doesnt properly follow players
+FIXED* - checkpoint infilitration textdraw is not dissappearing, when someone dies in CP timer does not stop
+FIXED* - when you die in TDM and respawn in lobby, world bounds still set for tdm
+FIXED* - when you do /skin and respawn, sets your skin as CJ, NOT KEEPING SET SKIN
+FIXED* - sometimes when you connect it sets your name to SUB_ or DEAD_
+
+
+* Version 6.7e 16/11
+- Removes message from /kill
+- fixed bug with Team DM # under money
+- fixed bug where timer clock wasnt dissappearing when round is over
+
+
+* Version 6.7d 16/11
+- Improved the code to save match results to file (layout)
+- Minor fixes over the code
+- Activated the Players Weapon Kills saving, now player's weapons kills are saved into his account
+- Activated Server weapon kills saving, .........
+- Will be shown in /stats and /serverinfo : Most Used Weapon: x - Kills: y
+- Added few new Hint messages
+- Fixed bug: "/makeadmin dont work, only sets admin level for id 0, if you do /makeadmin 1 1 it sets player id 0 as admin" PS: Evox is a nab
+- Fixed bugs where Refs got CJ skin when they did /sync
+
+
+* Version 6.7c
+- Changed color of Hint messages to COLOR_BLUEGREY
+- Fixed mistakes where it told players to vote with /base + /tdm
+- Moved timer clock, new textdraw
+- new cp infiltration textdraw
+- map markers in tdm now show every 15 seconds
+- cleaned up RequestClass textdraws
+
+
+* Version 6.7b | 02/11
+- Moved /base and /tdm to /vote [base / tdm]
+- Fixed RoundsPlayed from /stats
+- Minor fix over the code
+- Cleared / Removed old codes that were commented
+- Fixed bug where Refs couldn't spec other players
+- Formated Base Update textdraw, changed display positions
+
+
+* Version 6.7a
+- Cosmetic updates
+
+
+* Version 6.6e
+- /nick temply removed
+- Added WinType, "Elimination", "Capture CP", "Hold Base", will be printed on Match file
+- Fixed bug where Subs couldn't spec their own teammates (the ones playing)
+- Minor checks over the code
+
+
+* Version 6.6d
+- Fixed bug where /config wasnt changing config variables, only config file
+- Added /nick
+- Added the server lock feature, /lock /unlock /pass
+- Added the /spawn command
+- Fixed 100 spelling mistakes where "available" was spelt wrong. STOP SPELLING AVAILABLE WRONG WTF
+
+
+* Version 6.6c
+- Added a completly new Spec system, with textdraw and Advance/Reverse hotkeys (STILL NEED TO BE TESTED)
+- Raped evox while he was sleeping (again)
+
+
+* Version 6.6b
+- Added a debug for freezed players when TDM starts
+- Fixed some /stats bugs, wasn't saving Round Kills/Deaths
+- Moved all hint messages to an array, will be showed when player spawns, randomly
+- Added a Error message when players do /b asdasd or /a asdhas or /config asdj (choose a invalid subcommand)
+- Raped evox while he was sleeping
+
+
+* Version 6.6a
+- Fixed some of devastators bad english < lol
+- added /arena weapon arenas for ppl to use in lobby
+- moved lobby hint messages RequestSpawn callback
+
+
+* Version 6.5e
+- Fixed a bug where Bases in interiors weren't being load
+- Fixed a Spec bug, you MUST set palyer's virtual world to the one he is specing (Don't remove it again evox noob)
+- Added a code that u can only use commands when ur spawned (prevent bugs, like doing /duel on secltion class screen)
+- Fixed /getgun, was enabled during duels
+
+
+* Version 6.5d
+- Fixed all /b desc problems... Now works with any kind of string
+
+
+* Version 6.5c
+- Added hint message telling ppl how to spawn car in lobby
+- clan tag in hostname can now be configured from main_config
+- Special textdraw above radar "GTA-United" (gtau mode)
+- Players are now in virtual world 40 when in lobby
+				
+				
+* Version 6.5b
+- made /car short for /vehicle
+- optimized vehicle system/fixed it again
+- Fixed vehicle killing code in OnPlayerDeath
+- Made it so if both teams dont get any kills/deaths it reports it as no one won
+- optimized vehicle spawning so vehicles spawned in round are not destroyed until round is over
+- Fixed bugs where it loops through players and it was doing: for(new i =1.. i is supposed to start at 0
+				
+				
+* Version 6.5a
+- Added support to GTA U
+- Improved stats command
+- /skin is now disabled as some skins cause crashes (GTA-U mode)
+
+
+* Version 6.4t
+- Made all PlayerVariables saved to ini file
+- Added a /stats command and LoadAccount / SaveAccount functions
+
+
+* Version 6.4s
+- Removed all SQL, moving to filterscript
+- Create new dini based login systerm
+- PlayerName() now returns the persons saved name
+
+
+* Version 6.4r 19/09
+- Made it so the map name under money updates during countdown
+- Added command /rem to remove someone from the round
+- Improved some textdraws / server messages
+- Fixed minor codes all over the code
+
+
+* Version 6.4q 19/09
+- Tweaked some server messages
+- Cosmetic changes/improvements
+- Stopped players from doing /vehicle while inside a car (samp bug where they go invisible/desynced)
+
+
+* Version 6.4o 19/09
+- Fixed some minor bugs OnPlayerDeath
+- Minor Fixes over the code
+- Fixed a bug on Checkpoint infiltration system
+- Added a detailed ServerInfo variable, holding all server data
+- Fixed A LOT bugs from Saving Match results to file (now records the base id - desciption - start time - end time - duration)
+- Added /b desc <baseid> <descript> to set bases and tdm's description (about) in-game.
+- Commented Some of the mySQL prints
+- Added a system to save all server / weapons info to files
+
+
+* Version 6.4n - 17/09:
+- Fixed textdraws colors (they are now based on team colors define instead of ~g~ or ~b~)
+- Added a /getgun command based on an array with aviablee weapons / ammo
+- Added a system to save the choosen weapons to an array, and give them when they spawn on lobby, in case lobby_weapons == 1
+- Fixed Skins system
+- Fixed Sync system
+- Added Syncing hotkey (JUMP + AIM)
+- Added Prints on all callbacks when on debug mode
+- Added duel 6 - Running Combo
